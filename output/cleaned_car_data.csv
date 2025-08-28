@@ -1,0 +1,837 @@
+name,price,used_for,transmission,colour,make_year,mileage,engine_cc,fuel,kilometer_run,warranty,types
+Hyundai | i20 Active S | TDi | 2015 | Hatchback (Hyundai),24.75,Private Use,Manual 2WD,Brown,2015.0,14.0,1400.0,Petrol,42000.0,No Warranty,Sedan
+Excellent car on sale (Hyundai),7.5,personal,Auto 2WD,Blue,2005.0,11.0,1399.0,Petrol,87412.0,No Warranty,Sedan
+TATA 407 Container (Tata),7.0,personal,Manual -  2WD,White,2013.0,16.0,2956.0,Diesel,60000.0,No Warranty,SUV
+4x4 swaraj Mazda (Mahindra),6.0,personal,Manual -  4WD,Unknown,2017.0,20.0,1350.0,Diesel,77676.0,No Warranty,Sedan
+i20 Active good for used few time (Hyundai),0.00375,personal,Auto -  2WD,White,2019.0,17.0,1200.0,Petrol,2400.0,No Warranty,Sedan
+Tata Sumo Gold 2014 GX (Tata),14.0,personal,Manual 2WD,Silver,2014.0,12.0,2956.0,Diesel,152451.0,No Warranty,SUV
+Mega XL hatti gadi (Tata),7.0,personal,Auto 2WD,Brown,2019.0,15.0,889.0,Petrol,80000.0,No Warranty,Hatchback
+Maruti Suzuki Alto 2004 On Sale (Maruti Suzuki),5.8,personal,Manual -  2WD,Black,2004.0,18.0,800.0,Petrol,75000.0,No Warranty,Hatchback
+Grand i10 magna 2014 (Hyundai),18.45,personal,Manual 2WD,Silver,2014.0,15.0,1200.0,Petrol,31000.0,No Warranty,Sedan
+Blue colour 2016 model Baleno (Maruti Suzuki),20.5,private,Auto 4WD,Blue,2016.0,50.0,1200.0,Petrol,41000.0,chaa.,Sedan
+WagonR Sell or Rent (Maruti Suzuki),10.25,personal,Manual 2WD,Unknown,2008.0,20.0,1200.0,Petrol,43000.0,No Warranty,Sedan
+2010 model red color santro zinc for sale (Hyundai),13.5,personal,Manual -  4WD,Red,2010.0,15.0,1100.0,Petrol,4200.0,No Warranty,Sedan
+Mahindra cabking (Mahindra),12.5,personal,Manual 2WD,Unknown,2018.0,20.0,1350.0,Diesel,82022.0,No Warranty,Sedan
+2011 model ko kia sportage sales & exchange offer (Kia),32.5,personal,Manual -  4WD,Unknown,2011.0,20.0,1500.0,Diesel,165234.0,No Warranty,Sedan
+"2015 model bolero 7 seater 4wd,powerstering sale (Mahindra)",19.5,personal,Manual 4WD,Silver,2015.0,16.0,2500.0,Diesel,65000.0,No Warranty,Sedan
+बैंक सुबिधा भएको सस्तो कार सङ्ग पनि सट्टा पट्टा (Mahindra),32.0,like new,Manual -  2WD,Silver,2019.0,15.0,2100.0,Electric,61000.0,no,Sedan
+Hyundai I20 Active Diesel 2015 (Hyundai),25.0,personal,Manual 2WD,Brown,2015.0,14.0,1400.0,Diesel,42000.0,No Warranty,Sedan
+Isuzu Vcross 2019 (Other Brands),51.0,personal,Manual -  4WD,White,2019.0,16.0,2499.0,Diesel,51000.0,No Warranty,Sedan
+Mg Zs Ev 2021 On Sale (Other Chinese Brands),53.0,1 year,Auto -  2WD,Red,2021.0,50.0,105.0,Electric,12200.0,7 uears,Hatchback
+Niro (Kia),58.0,personal,Auto 2WD,White,2019.0,100.0,0.0,Electric,9000.0,No Warranty,Hatchback
+Hyundai i10 Magna 1.2 2010 model (Hyundai),13.5,personal,Manual -  2WD,Other,2010.0,15.0,1200.0,Petrol,133326.0,No Warranty,Sedan
+Like a Brand New Grand i10 sports 0 Push Bottom (Hyundai),23.5,personal,Manual -  2WD,Red,2017.0,14.0,1197.0,Petrol,7000.0,No Warranty,Sedan
+Fore Sale Grand I10 Magna (Hyundai),18.5,1,Manual -  2WD,Silver,2014.0,14.0,1200.0,Petrol,45000.0,No,Sedan
+Kia Rio 2011 Model Best Condition (Kia),14.3,personal,Manual -  2WD,White,2011.0,18.0,1399.0,Petrol,59000.0,No Warranty,Sedan
+Hundai Grend I 10 2019 model Sportz (Hyundai),26.0,3 years,Manual -  2WD,Other,2019.0,13.0,1200.0,Petrol,18300.0,no,Sedan
+Hyundai Creta | Model - 2017 | Diesel (Hyundai),37.5,-,Manual 2WD,White,2017.0,21.4,1582.0,Diesel,42000.0,-,Sedan
+TATA BOLT RT XM (Tata),17.8,personal,Manual -  2WD,White,2017.0,15.0,1193.0,Petrol,66662.0,No Warranty,Sedan
+Santro 2010 (Hyundai),13.6,personal,Manual -  2WD,Silver,2010.0,15.0,1100.0,Petrol,53000.0,No Warranty,Sedan
+urgent sell (Tata),9.5,personal,Auto -  2WD,Silver,2013.0,10.0,1400.0,Petrol,97000.0,No Warranty,Sedan
+Car on sale (Maruti Suzuki),26.5,Private,Manual 2WD,Other,2017.0,50.0,1200.0,Petrol,29000.0,Yes,Sedan
+Toyota hilux revo 2018 sell or exchange (Toyota),78.5,Private,Manual 4WD,Silver,2018.0,12.0,2.8,Diesel,42000.0,No Warranty,Hatchback
+Datsun Go on sale (Datsun),12.75,5 years,Manual -  2WD,Blue,2016.0,16.0,1200.0,Petrol,48000.0,thank you,Sedan
+Nissan navara le (Nissan),24.0,private,Manual -  4WD,Red,2010.0,10.0,2500.0,Diesel,75000.0,no warranty,Sedan
+Sentro fresh condition (Hyundai),13.0,Home,Auto 2WD,Blue,2009.0,50.0,1086.0,Petrol,80000.0,Not,Sedan
+Ford Ecosport for sale (Ford),29.5,5 years,Manual 2WD,Other,2017.0,17.0,1500.0,Petrol,26000.0,No warannty,Sedan
+One Week Offer Price Fiat Avventura Dynamic 2016.. (Fiat),15.50077,personal,Manual 2WD,Red,2016.0,15.0,1368.0,Petrol,57000.0,No Warranty,Sedan
+Hyundai Venue 2021 like Brand new on Sale (Hyundai),35.25,1 year,Manual 2WD,White,2021.0,18.0,1200.0,Petrol,13750.0,Company warranty,Sedan
+Scorpio S4+ (Mahindra),34.5,Prasnal,Auto -  4WD,Other,2016.0,20.0,1350.0,Diesel,750840.0,No Warranty,Sedan
+FORD IKON FULL OPTION FRESH N SMOOTH (Ford),5.5,10,Manual -  2WD,Other,2003.0,15.0,1299.0,Petrol,52000.0,non,Sedan
+Ford Figo (Trend) (Ford),15.0,6 years,Manual 2WD,White,2016.0,14.0,1200.0,Petrol,70000.0,No,Sedan
+"Fully fresh, excellent condition, tax cleared (Hyundai)",6.4,personal,Manual 2WD,Unknown,2002.0,15.0,1086.0,Petrol,322002.0,No Warranty,Sedan
+Kia sportage AWD 8air bag fully looded for sale (Kia),32.5,12 years,Manual -  4WD,Other,2011.0,13.0,2000.0,Diesel,67000.0,no,Sedan
+car sell (Nissan),5.5,personal,Auto -  2WD,Unknown,1997.0,20.0,1500.0,Diesel,343656.0,No Warranty,Sedan
+2023 Nissan Magnite XE (Nissan),33.99,personal,Manual -  2WD,Brown,2023.0,18.0,999.0,Petrol,13498.0,No Warranty,Hatchback
+Spark (Chevrolet),5.75,home office,Manual -  2WD,Other,2007.0,12.0,1200.0,Petrol,145319.0,No Warranty,Sedan
+i20 activeS2016 just like brand new exchange offer (Hyundai),28.5,personal,Manual -  2WD,Unknown,2017.0,15.0,1080.0,Petrol,38000.0,No Warranty,Sedan
+wagonar bikrima (Maruti Suzuki),10.5,13,Manual -  2WD,Red,2010.0,15.0,1086.0,Petrol,75000.0,No,Sedan
+santro bikrima (Hyundai),10.5,16,Manual -  2WD,White,2007.0,14.0,1086.0,Petrol,71000.0,No,Sedan
+ZEN 2006 (Maruti Suzuki),7.49,personal,Manual -  4WD,Silver,2006.0,16.0,1000.0,Petrol,74000.0,No Warranty,Sedan
+Creta SX 2019 Like new (Hyundai),43.0,32 months,Manual 2WD,White,2019.0,14.0,1600.0,Petrol,24000.0,No Warranty,Sedan
+Wagon R 2009 (Maruti Suzuki),8.95,personal,Manual -  2WD,Unknown,2009.0,15.0,1200.0,Petrol,230750.0,No Warranty,Sedan
+2010 i 10 MAGNA (Hyundai),14.0,personal,Manual -  2WD,Blue,2010.0,15.0,1200.0,Petrol,39888.0,No Warranty,Sedan
+Hyundai Accent 2006 Narayani Number (Hyundai),5.5,personal,Manual -  2WD,Unknown,2006.0,17.0,1400.0,Petrol,259084.0,No Warranty,Sedan
+Honda Jazz 2016 model (Honda),23.5,6 years,Manual 2WD,White,2016.0,15.0,1200.0,Petrol,34200.0,No Warranty,Sedan
+maruti suzuki ZEN LX (Maruti Suzuki),4.75,1,Auto -  2WD,Silver,2002.0,18.0,1000.0,Petrol,70000.0,No Warranty,Sedan
+Truck for sale (Tata),18.25,Supply Transportation,Manual,Other,2017.0,20.0,1350.0,Diesel,69501.0,No Warranty,Sedan
+School Bus On Sale,21.0,School,Manual -  2WD,Yellow,2016.0,10.0,3700.0,Diesel,30000.0,No,SUV
+Single hand Honda Jazz VMT Fully Loaded (Honda),24.5,6 years,Manual 2WD,Other,2016.0,12.0,1200.0,Petrol,30000.0,Yes,Sedan
+TATA 709 EX SCHOOL BUS (Tata),7.0,12 years,Auto -  2WD,Yellow,2012.0,5.0,3783.0,Diesel,60000.0,No,SUV
+Nissan sunny 2014 full option sedan for sale (Nissan),15.99999,personal,Manual 2WD,Other,2014.0,18.0,250.0,Petrol,42500.0,No Warranty,Hatchback
+Nissan kicks XV 2021 (Nissan),44.99999,personal,Manual -  4WD,Other,2021.0,50.0,1080.0,Petrol,3700.0,No Warranty,Sedan
+Haval H6 AWD 2021 Top Version (Great Wall Motors),97.0,personal,Auto 4WD,Blue,2021.0,15.0,1080.0,Petrol,16777.0,No Warranty,Sedan
+ford figo 2016 (Ford),15.5,personal,Manual 4WD,Unknown,2016.0,15.0,1080.0,Petrol,77673.0,No Warranty,Sedan
+Volkswagen Polo 1.6 (Volkswagen),16.5,few times,Manual 2WD,Other,2011.0,12.0,1600.0,Petrol,55708.0,No Warranty,Sedan
+kia pincato 2010 full option (Kia),97.5,personal use,Auto -  2WD,Gray,2010.0,18.0,1200.0,Petrol,57000.0,6 month on engine /gear box /clus plate,Sedan
+ELECTRIC CAR FOR SALE! BRAND NEW E VERITO (Mahindra),20.5,5 MONTHS,Auto 2WD,Other,2020.0,50.0,0.0,Electric,6000.0,100000KM 3 YEARS,Hatchback
+Hyundai Santro Fresh 2011 (Hyundai),14.0,Persona,Manual -  2WD,Silver,2011.0,14.0,1084.0,Petrol,57560.0,Company,Sedan
+golden chance 2015 model i20 active s car on sale (Hyundai),22.99999,personal,Manual -  2WD,Unknown,2015.0,15.0,1200.0,Petrol,87484.0,No Warranty,Sedan
+2014 Honda City (Honda),20.99,personal,Manual 2WD,Other,2014.0,15.0,1200.0,Petrol,55000.0,No Warranty,Sedan
+2014 Honda City on Sale (Honda),20.99,personal,Manual -  2WD,Other,2014.0,16.0,1200.0,Petrol,55000.0,No Warranty,Sedan
+Swift ZXI 2009 9823584566 (Maruti Suzuki),14.25,14 years,Manual -  2WD,Other,2009.0,13.0,1300.0,Petrol,70000.0,No Warranty,Sedan
+TATA INDIGO MANZA LX (Tata),14.0,personal,Manual -  2WD,White,2014.0,18.0,1248.0,Diesel,60000.0,No Warranty,Sedan
+Sonalika tractor (Other Brands),12.5,personal,Manual 2WD,Blue,2020.0,20.0,1350.0,Diesel,42362.0,No Warranty,Sedan
+Volkswagen Polo (Volkswagen),14.8,personal,Manual -  2WD,White,2012.0,15.0,1200.0,Petrol,146138.0,No Warranty,Sedan
+"Swift Vxi 2017 model, single hand (Maruti Suzuki)",20.0,office,Auto 2WD,Silver,2017.0,16.0,1200.0,Petrol,35200.0,-,Sedan
+2022 Kia seltos HTK+ imt semi auto (Kia),52.0,6months,Manual 2WD,White,2022.0,15.0,1500.0,Petrol,6700.0,5years company warranty,Sedan
+5lakh cash ma ramro vhanda ramro gadi chahiyo? (Other Brands),5.0,personal,Manual,Unknown,2005.0,15.0,1200.0,Petrol,218690.0,No Warranty,Sedan
+"Tata Motors, Winger,2017, Yellow , 14 Seats (Tata)",21.0,School,Manual 2WD,Yellow,2017.0,20.0,1948.0,Diesel,93726.0,No Warranty,Sedan
+Maruti Suzuki swift (Maruti Suzuki),19.5,Office purpose,Auto 2WD,Silver,2013.0,50.0,1200.0,Petrol,47000.0,Visit check up,Sedan
+hurry hurry aayo compass limited jeep xito xito xi (Jeep),80.0,personal,Manual -  2WD,White,2021.0,17.0,1956.0,Diesel,9500.0,No Warranty,Sedan
+Opel corsa 1.4 (Other Brands),3.75,personal,Manual 2WD,Silver,2000.0,10.0,1400.0,Petrol,71000.0,No Warranty,Sedan
+Maruti suzuki Astar (Maruti Suzuki),9.2,personal,Auto 2WD,Unknown,2009.0,15.0,1200.0,Petrol,70000.0,No Warranty,Sedan
+"Nissan X-trail, 2010, beige colour, diseal (Nissan)",32.0,personal,Manual -  4WD,Other,2010.0,20.0,2000.0,Diesel,70000.0,No Warranty,Sedan
+Skoda Khushaq (Skoda),55.0,16 months,Manual -  2WD,Silver,2021.0,15.0,1000.0,Petrol,24800.0,Yes,Sedan
+Kia Seltos auto 2021 (Kia),57.5,2,Auto 2WD,White,2021.0,50.0,1500.0,Petrol,14500.0,1 years,Sedan
+hyundai eon era + (Hyundai),11.75,9year,Manual -  2WD,Other,2013.0,15.0,800.0,Petrol,32000.0,0,Hatchback
+Brezza Zxi+ Petrol 2021 Model (full Options) (Maruti Suzuki),41.25,personal,Manual -  2WD,Silver,2021.0,16.0,1500.0,Petrol,12000.0,No Warranty,Sedan
+Nexon Ex. 2022 LUX 12000km only (Tata),37.0,personal,Auto -  2WD,White,2022.0,50.0,30.0,Electric,12000.0,almots 8 yrs,Hatchback
+Land cruiser Prado tx (Toyota),167.0,personal,Auto 4WD,White,2016.0,16.0,2882.0,Diesel,46543.0,No Warranty,SUV
+Mistubishi ls200 (Mitsubishi),76.5,2,Manual 4WD,Blue,2020.0,12.0,2400.0,Diesel,32000.0,No Warranty,Sedan
+Hyundai Create 2017 Model White Color (Hyundai),33.0,5 year’s,Manual -  2WD,White,2017.0,15.0,1599.0,Petrol,70000.0,No,Sedan
+terious 2008 model is for sale (Daihatsu),27.75,persional,Manual -  4WD,White,2008.0,15.0,1500.0,Petrol,71000.0,accident free,Sedan
+eeco van (Maruti Suzuki),14.0,personal,Manual,Silver,2015.0,12.0,1200.0,Petrol,94471.0,No Warranty,Sedan
+Vitara Brezza 2020 Zxi+ (Maruti Suzuki),40.0,2 years,Manual -  2WD,Black,2020.0,15.0,1500.0,Petrol,34000.0,3 yeara,Sedan
+Baleno Zeta 2020 (Maruti Suzuki),30.0,1 year,Manual -  2WD,Blue,2020.0,18.0,1200.0,Petrol,11000.0,4 years,Sedan
+Fresh Mini Jeep On Sell (Other Chinese Brands),10.05,personal,Manual -  2WD,Silver,2009.0,12.0,1300.0,Petrol,0.0,No Warranty,Sedan
+Tata Yodha 2021 Model (Tata),15.0,1 year,Manual -  2WD,White,2021.0,16.0,2900.0,Diesel,45000.0,No Warranty,SUV
+maruti suzuki ritz (Maruti Suzuki),12.25,6,Auto -  2WD,Gray,2010.0,15.0,1200.0,Petrol,62000.0,no,Sedan
+Toyota Fortuner 2010 (Toyota),70.0,personal,Manual -  4WD,Other,2010.0,10.0,2800.0,Diesel,52000.0,No Warranty,SUV
+"Maruti Suzuki Alto 800 Lxi, (Maruti Suzuki)",13.25,personal,Manual -  2WD,Red,2016.0,18.0,800.0,Petrol,42500.0,No Warranty,Hatchback
+car swift ZXI (Maruti Suzuki),23.0,personal used,Auto -  2WD,Other,2016.0,15.0,1200.0,Petrol,25000.0,no warranty,Sedan
+Single Handed Bolero D/c 4wd P/s 2018 For Sell (Mahindra),21.0,personal,Manual -  4WD,White,2018.0,15.0,2523.0,Diesel,59000.0,No Warranty,SUV
+I 20Asta Elite (Hyundai),27.5,Years,Manual 2WD,Gray,2016.0,15.0,1200.0,Petrol,23000.0,No Warranty,Sedan
+"Grand i10 magna 1.2, (Hyundai)",25.25,personal,Manual -  2WD,Silver,2019.0,15.0,1200.0,Petrol,17000.0,No Warranty,Sedan
+Skoda yeti in excellent condition (Skoda),23.25,12,Manual 4WD,Black,2010.0,12.0,1.8,Petrol,72000.0,No,Hatchback
+Bolero Double cab for sale (Mahindra),23.5,personal,Manual,White,2021.0,16.0,2500.0,Diesel,38416.0,No Warranty,Sedan
+i20 Sportz 2010 for sale (Hyundai),15.99,11 years,Manual -  2WD,Other,2010.0,14.0,1197.0,Petrol,60500.0,No warranty,Sedan
+Suzuki Omni Cargo Van 2012 Contact no. 9813293195 (Maruti Suzuki),4.2,personal,Auto 2WD,White,2012.0,18.0,800.0,Petrol,112852.0,No Warranty,Hatchback
+"Hyundai i10 2011 model, Good condition (Hyundai)",15.0,1st hand drive,Manual 2WD,Blue,2011.0,15.0,1200.0,Petrol,45400.0,No Warranty,Sedan
+Kia seltos HTX IVT Automatic transmission (Kia),58.0,Commercial vehicle,Auto 2WD,White,2021.0,14.0,1600.0,Petrol,8000.0,Available upto 1yr,Sedan
+Fresh eco van ungent sale (Maruti Suzuki),20.75,personal,Manual -  2WD,Silver,2021.0,15.0,1200.0,Petrol,31000.0,No Warranty,Sedan
+car on sale (Mahindra),29.75,companye,Manual -  2WD,Silver,2016.0,16.0,2179.0,Diesel,62370.0,no,Sedan
+Ssangyong TIVOLI 2019 (1600 CC) (Ssangyong),39.9,personal,Auto -  2WD,Red,2019.0,15.0,1600.0,Petrol,38000.0,No Warranty,Sedan
+Bus on sale tata 2010 kritipur to ratnapark root (Tata),7.0,personal,Manual -  4WD,Unknown,2010.0,16.0,3500.0,Diesel,147048.0,No Warranty,SUV
+Suzuki Swift Zxi 2014 (Maruti Suzuki),21.0,8,Manual -  2WD,White,2014.0,18.0,1200.0,Petrol,58000.0,Engine,Sedan
+tata mobil gadi on sell (Tata),3.5,work,Auto -  2WD,Blue,2007.0,7.0,1948.0,Diesel,35000.0,No Warranty,Sedan
+Van (Maruti Suzuki),4.0,personal,Auto 2WD,White,2014.0,14.0,800.0,Petrol,5500.0,No Warranty,Hatchback
+fresh gadi kehi problem xaina 2010 model 950000 (Mahindra),9.5,personal,Manual -  2WD,Unknown,2010.0,16.0,2500.0,Diesel,154529.0,No Warranty,Sedan
+Fully Loaded Full Option Branded Car Opel Corsa (Other Brands),3.959,15 years,Manual 2WD,Silver,2000.0,15.0,1600.0,Petrol,50000.0,No Warranty,Sedan
+Scorpio lx (Mahindra),23.5,personal,Manual 2WD,Green,2014.0,15.0,2200.0,Diesel,97500.0,No Warranty,Sedan
+Super Fresh High Copy Of Terios 2011 Zotye 1.6 ABS (Other Chinese Brands),10.759,8 years,Manual 2WD,Blue,2011.0,15.0,1600.0,Petrol,40000.0,No Warranty,Sedan
+FIAT AVVENTURA 1.4 DYNAMIC ON SALE (Fiat),16.0,personal use,Manual 2WD,Silver,2015.0,12.0,1383.0,Petrol,25125.0,No Warranty,Sedan
+Tata indica model 2007 500000 9860462630 (Tata),5.0,personal,Manual 2WD,Black,2007.0,20.0,1500.0,Diesel,71000.0,No Warranty,Sedan
+Chevrolet Spark on Sale (Chevrolet),9.0,5 years,Manual 2WD,Other,2012.0,18.0,995.0,Petrol,30000.0,No Warranty,Hatchback
+Well maintained Scorpio on sale (Mahindra),17.2,personal,Manual 2WD,White,2007.0,16.0,2400.0,Diesel,100000.0,No Warranty,Sedan
+Hyundai i20 sportz 2010 urgent Sale (Hyundai),15.0,personal,Auto 2WD,White,2010.0,15.0,1198.0,Petrol,43000.0,No Warranty,Sedan
+Santro Xing Car for sale (Hyundai),10.5,personal,Manual,Blue,2006.0,15.0,1086.0,Petrol,210306.0,No Warranty,Sedan
+Toyota corolla /1975/ (Toyota),18.0,private,Manual -  2WD,Silver,1975.0,12.0,1200.0,Petrol,95000.0,no warranty,Sedan
+Suzuki Baleno Delta 2018 Model (Maruti Suzuki),22.65,personal,Manual,Silver,2018.0,16.0,1200.0,Petrol,43000.0,3 months,Sedan
+I20 actives 2016 model on sell or xchange (Hyundai),26.0,personal,Manual -  2WD,White,2016.0,15.0,1200.0,Petrol,34000.0,No Warranty,Sedan
+kia sportage 2.0 korean (Kia),14.5,private,Manual -  4WD,Red,2005.0,11.0,2000.0,Diesel,95000.0,no warranty,Sedan
+ecosport on sell (Ford),19.0,personal,Manual -  2WD,Unknown,2013.0,15.0,1000.0,Petrol,154585.0,No Warranty,Sedan
+Toyota Corolla Lx 2009 Auto A/C 6 Airbag On Sale (Toyota),23.5,personal,Manual -  2WD,White,2009.0,12.0,1600.0,Petrol,55000.0,No Warranty,Sedan
+Skoda Rapid Model 2015 1600 Cc (Skoda),16.0,personal,Manual -  2WD,Silver,2015.0,12.0,1600.0,Petrol,65000.0,No Warranty,Sedan
+Santo xing on sale full option 2003 model on sale (Hyundai),8.0,personal,Manual -  2WD,Unknown,2003.0,15.0,1086.0,Petrol,90000.0,No Warranty,Sedan
+2002 model full option santro for sale (Hyundai),5.7,6 years,Manual -  2WD,Blue,2002.0,14.0,1086.0,Petrol,89.0,No,Sedan
+2001 model frees santro for sale (Hyundai),4.7,7 years,Manual -  2WD,White,2001.0,14.0,1000.0,Petrol,95.0,No,Sedan
+2021 model Sonet like new only 10000 KM run (Kia),30.8,1 year,Manual 2WD,Other,2021.0,12.0,1200.0,Petrol,10000.0,Dealer,Sedan
+Tata nexon EV (Tata),38.5,personal,Auto 2WD,Unknown,2022.0,100.0,0.0,Electric,19675.0,No Warranty,Hatchback
+sale (Hyundai),12.9,parsonal,Manual -  2WD,Gray,2008.0,12.0,1200.0,Petrol,67000.0,no,Sedan
+Suzuki AStar zxi (Maruti Suzuki),11.25,personal,Auto 2WD,Blue,2010.0,50.0,1000.0,Petrol,72000.0,No Warranty,Sedan
+Hyundai Santro Xing Xo 2005 (Hyundai),9.5,personal,Manual 2WD,White,2005.0,15.0,1086.0,Petrol,229947.0,No Warranty,Sedan
+Hyundai Santro Gls Plus 2013 (Hyundai),14.9,personal,Manual 2WD,Other,2013.0,15.0,1086.0,Petrol,40000.0,No Warranty,Sedan
+Maruti Suzuki Baleno Delta 2016 (Maruti Suzuki),20.75,personal,Manual 2WD,Blue,2016.0,15.0,1197.0,Petrol,39000.0,No Warranty,Sedan
+Maruti Suzuki Zen Estilo Vxi 2010 (Maruti Suzuki),10.75,personal,Manual 2WD,Silver,2010.0,18.0,996.0,Petrol,61477.0,No Warranty,Hatchback
+2010 Maruti Suzuki (Maruti Suzuki),13.0,personal,Manual -  2WD,Unknown,2010.0,15.0,1200.0,Petrol,177315.0,No Warranty,Sedan
+Cargo maruti (Maruti Suzuki),5.0,Carring goods,Manual 4WD,White,2015.0,15.0,800.0,Petrol,40000.0,No,Hatchback
+"2015 model swift zxi singlehanded sale,exng bike (Maruti Suzuki)",22.5,personal,Manual 2WD,Silver,2015.0,15.0,1200.0,Petrol,46000.0,No Warranty,Sedan
+FINANCE PANI Hatti Gadi Urgent Sell 9849193421 (Tata),11.0,delevery,Manual 4WD,White,2018.0,16.0,1405.0,Diesel,95000.0,no,Sedan
+Hyundai i20 asta 2010 (Hyundai),15.25,personal,Manual -  2WD,Other,2010.0,15.0,1198.0,Petrol,122282.0,No Warranty,Sedan
+Nissan Magnite XV Dual (Nissan),40.34,personal,Manual -  2WD,Unknown,2023.0,18.0,999.0,Petrol,12774.0,No Warranty,Hatchback
+"2016 Swift Dezire Vxi Sale, Exchange, Finance (Maruti Suzuki)",20.75,Private,Manual -  2WD,Brown,2016.0,16.0,1200.0,Petrol,47000.0,No Warranty,Sedan
+santro xing (Hyundai),6.5,personal,Manual,Other,2001.0,15.0,1000.0,Petrol,80000.0,No Warranty,Sedan
+GRAND I 10 Magna 1.2 (Hyundai),25.5,personal,Manual -  4WD,Silver,2019.0,15.0,1196.0,Petrol,17000.0,No Warranty,Sedan
+Puegot (Other Brands),5.0,personal,Manual -  2WD,Other,2001.0,12.0,2800.0,Petrol,90000.0,No Warranty,SUV
+Volswagen CrossPolo (Volkswagen),20.5,personal,Manual -  2WD,Black,2015.0,15.0,1600.0,Petrol,35000.0,No Warranty,Sedan
+Fiat Aventura (Fiat),15.5,personal,Manual -  2WD,White,2015.0,13.0,1400.0,Petrol,35000.0,No Warranty,Sedan
+Hyundai Creta Sx top variant (Hyundai),45.75,personal,Manual -  2WD,White,2019.0,15.0,1500.0,Petrol,38000.0,No Warranty,Sedan
+Ecosport ford Ambient (Ford),22.5,personal,Manual -  2WD,Other,2016.0,12.0,5000.0,Petrol,50000.0,No Warranty,SUV
+S Hyundai i20 Active (Hyundai),28.65,personal,Manual -  2WD,Other,2017.0,15.0,1197.0,Petrol,35000.0,No Warranty,Sedan
+Top variant Hyundai i 20 Active (Hyundai),29.0,personal,Manual -  2WD,White,2017.0,15.0,1200.0,Petrol,38000.0,No Warranty,Sedan
+Chevrolet Optra (Chevrolet),12.5,personal,Manual -  2WD,Other,2012.0,15.0,1400.0,Petrol,38000.0,No Warranty,Sedan
+Grand i10 Magna New shape (Hyundai),23.0,personal,Manual -  2WD,Other,2018.0,14.0,1200.0,Petrol,27000.0,No Warranty,Sedan
+volswagen Tiguan (Volkswagen),31.5,personal,Manual -  2WD,Other,2010.0,15.0,2000.0,Petrol,75000.0,No Warranty,Sedan
+Suzuki Breeza zxi plus (Maruti Suzuki),39.75,personal,Manual -  2WD,Red,2021.0,15.0,1300.0,Petrol,30000.0,No Warranty,Sedan
+Hyundai i10Magna (Hyundai),12.65,personal,Manual -  2WD,Blue,2009.0,15.0,1197.0,Petrol,61000.0,No Warranty,Sedan
+Green Indica (Tata),3.95,personal,Manual -  2WD,Green,2003.0,20.0,1400.0,Diesel,75000.0,No Warranty,Sedan
+Tata Indica (Tata),3.9,personal,Manual -  2WD,Black,2000.0,13.0,1400.0,Petrol,90000.0,No Warranty,Sedan
+Bolero pickup Fully loaded (Mahindra),15.5,personal,Manual -  4WD,White,2016.0,13.0,2523.0,Diesel,45000.0,No Warranty,SUV
+Ford Ecosport Titanium push bottom (Ford),24.25,personal,Manual -  2WD,Other,2016.0,13.0,1500.0,Petrol,38000.0,No Warranty,Sedan
+Hyundai I20 Elite Asta (Hyundai),22.75,personal,Manual -  2WD,Silver,2015.0,14.0,1200.0,Petrol,40000.0,No Warranty,Sedan
+Nissan March (Nissan),15.25,personal,Manual -  2WD,Silver,2014.0,14.0,1197.0,Petrol,38000.0,No Warranty,Sedan
+Suzuki Swift VXI 2009 for sale (Maruti Suzuki),13.99,11 years,Manual -  2WD,Other,2009.0,14.0,1300.0,Petrol,52000.0,No warranty.,Sedan
+Diahatsu Sirion (Daihatsu),8.75,personal,Manual -  2WD,Silver,2007.0,14.0,1000.0,Petrol,61000.0,No Warranty,Sedan
+Hyyundai Tucson (Hyundai),21.5,personal,Manual -  4WD,Red,2007.0,13.0,2000.0,Diesel,78000.0,No Warranty,Sedan
+Suzuki cargo van (Maruti Suzuki),5.4,personal,Manual -  2WD,White,2014.0,14.0,800.0,Petrol,610000.0,No Warranty,Hatchback
+Toyota Yaris silver colour one hand 2007 (Toyota),14.0,Private,Auto 2WD,Silver,2007.0,14.0,1400.0,Petrol,100000.0,No,Sedan
+Suzuki Swift Dezire New Shape (Maruti Suzuki),21.9,personal,Manual -  2WD,Other,2017.0,14.0,1197.0,Petrol,38000.0,No Warranty,Sedan
+wagon r (Maruti Suzuki),13.75,Private,Manual -  2WD,Silver,2014.0,16.0,1000.0,Petrol,28000.0,no,Sedan
+Grand i10 Asta 2014 (Hyundai),21.25,personal,Manual -  2WD,Other,2014.0,15.0,1197.0,Petrol,48000.0,No Warranty,Sedan
+Ford Fiesta Classic (Ford),11.5,personal,Manual -  2WD,White,2014.0,16.0,1400.0,Diesel,70.0,No Warranty,Sedan
+Toyota fortuner 2015 model (Toyota),97.0,personal,Manual -  4WD,White,2015.0,16.0,3000.0,Diesel,86649.0,No Warranty,SUV
+Honda brio smt 2012 model seal pack engine (Honda),13.5,10 years,Manual 2WD,Blue,2012.0,14.0,1200.0,Petrol,59000.0,No,Sedan
+Mazda 2 (Mazda),16.25,personal,Manual -  2WD,Unknown,2010.0,15.0,1500.0,Petrol,61000.0,No Warranty,Sedan
+Grand Vitara 2007 model (Maruti Suzuki),19.5,personal,Manual -  4WD,Silver,2007.0,15.0,1200.0,Petrol,150762.0,No Warranty,Sedan
+Polo 1.6 2013 Highline (Volkswagen),17.25,personal,Manual -  2WD,Unknown,2013.0,15.0,1200.0,Petrol,62000.0,No Warranty,Sedan
+Mahindra E2o Electric Car (Mahindra),13.75,personal,Auto -  2WD,Unknown,2016.0,100.0,0.0,Electric,121855.0,No Warranty,Hatchback
+swift vxi 2012 mode is for sale (Maruti Suzuki),16.75,persional,Manual -  2WD,Silver,2012.0,15.0,1200.0,Petrol,52000.0,accident free,Sedan
+Second hand Bolt XM (Tata),19.99999,personal,Manual 2WD,White,2017.0,17.0,1200.0,Petrol,50000.0,No Warranty,Sedan
+Suzuki car (Maruti Suzuki),7.5,personal,Manual 2WD,Gray,2008.0,18.0,800.0,Petrol,245640.0,No Warranty,Hatchback
+सबै भन्दा सस्तो मूल्यमा indigo 2010 full option (Tata),7.95,personal use,Manual -  2WD,Silver,2010.0,18.0,1405.0,Diesel,64000.0,no,Sedan
+2021 model Hyundai Venue-S 9847699255 (Hyundai),36.5,personal,Manual -  2WD,White,2021.0,15.0,1200.0,Petrol,21000.0,No Warranty,Sedan
+KIA SELTOS HTK+2020 (Kia),42.75,Self,Manual -  2WD,Gray,2020.0,16.0,1500.0,Petrol,28500.0,No Warranty,Sedan
+Magnite like new (Nissan),24.5,personal,Manual 2WD,Silver,2021.0,15.0,1000.0,Petrol,5600.0,No Warranty,Sedan
+Second hand swift zxi (Maruti Suzuki),19.0,personal,Auto 2WD,Other,2013.0,18.0,1200.0,Petrol,45000.0,No Warranty,Sedan
+Hyundai Creta E+ On Sale (Hyundai),39.5,personal,Manual -  2WD,White,2019.0,15.0,1600.0,Petrol,20000.0,No Warranty,Sedan
+Maruti Suzuki Celerio Auto Gear On Sale (Maruti Suzuki),18.5,personal,Auto -  2WD,Green,2014.0,12.0,1000.0,Petrol,40000.0,No Warranty,Sedan
+Second hand Nexon (Tata),34.0,personal,Auto 2WD,Blue,2018.0,18.0,1500.0,Diesel,40000.0,No Warranty,Sedan
+Hyundai Santro On Sale (Hyundai),11.0,personal,Manual -  4WD,Silver,2007.0,15.0,1000.0,Petrol,60000.0,No Warranty,Sedan
+Hyundai I20 Active S On Sale (Hyundai),28.5,personal,Manual -  2WD,Brown,2017.0,15.0,1200.0,Petrol,50000.0,No Warranty,Sedan
+2010 model Tata Safari VX 7 sitter 4wd 9847699255 (Tata),11.75,personal,Manual -  4WD,Green,2010.0,16.0,2169.0,Diesel,70000.0,No Warranty,Sedan
+Mahindra Scorpio S4 On Sale (Mahindra),31.5,personal,Manual -  2WD,Blue,2016.0,12.0,2200.0,Diesel,50000.0,No Warranty,Sedan
+Full option Ford Ecosport for Sale (Ford),22.99,7 years,Manual 2WD,Other,2015.0,15.0,1499.0,Diesel,50000.0,No Warranty,Sedan
+Airport Pick-up & Drop (Maruti Suzuki),15.0,personal,Manual -  2WD,Unknown,2015.0,15.0,1100.0,Petrol,127984.0,No Warranty,Sedan
+VW Taigun for sale (Volkswagen),62.0,personal,Auto 2WD,Other,2021.0,15.0,1080.0,Petrol,17000.0,No Warranty,Sedan
+Volkswagen Touareg 2010 (Volkswagen),62.0,12,Auto 4WD,White,2010.0,16.0,2967.0,Diesel,98000.0,No Warranty,SUV
+Hyundai Creta 1.6 Gasoline Sx for sale (Hyundai),55.0,Private,Manual 2WD,White,2019.0,15.0,1591.0,Petrol,30000.0,No Warranty,Sedan
+Renault duster (rxl) (Renault),24.0,private,Manual -  2WD,Red,2016.0,12.0,1596.0,Petrol,36000.0,no warranty,Sedan
+Ufo jonway chinese (Other Chinese Brands),10.5,private,Manual -  2WD,White,2010.0,10.0,1596.0,Petrol,65000.0,no warranty,Sedan
+santro 2003 (Hyundai),6.5,personal,Manual,Unknown,2003.0,15.0,1000.0,Petrol,222457.0,No Warranty,Sedan
+Hyundai I20 Asta Diesel engine CRDI (Hyundai),13.75,personal,Manual 2WD,Silver,2010.0,20.0,1400.0,Diesel,47000.0,No Warranty,Sedan
+SUPER FRESH CONDITION SUZUKI SWIFT DEZIRE ON SALE (Maruti Suzuki),11.85,12 years,Manual 2WD,Silver,2009.0,15.0,1300.0,Petrol,45000.0,No Warranty,Sedan
+Tata Ace Ht 2017 (Tata),6.3,Halka saman matra bokeko,Auto -  2WD,Blue,2017.0,15.0,702.0,Diesel,5900.0,No,Hatchback
+Maruti Suzuki Eeco Van 5seater With AC 2017 Model (Maruti Suzuki),14.75,personal,Manual -  2WD,White,2017.0,15.0,1196.0,Petrol,38300.0,No Warranty,Sedan
+maruti suzuki brezza vxi 2021 (Maruti Suzuki),40.5,personal,Manual -  2WD,Silver,2021.0,20.0,1500.0,Petrol,17000.0,as per company rules,Sedan
+Kia Sportage single hand with multiple airbag (Kia),57.0,personal,Manual -  4WD,Other,2016.0,16.0,2500.0,Diesel,36200.0,No Warranty,Sedan
+maruti Suzuki Eeco van with AC (5seater) (Maruti Suzuki),14.75,personal,Manual -  2WD,White,2017.0,15.0,1196.0,Petrol,38300.0,No Warranty,Sedan
+Mahindra Scorpio S4 plus 2016 single hand (Mahindra),33.0,personal,Manual,Silver,2016.0,15.0,2000.0,Petrol,56000.0,No Warranty,Sedan
+Hyundai Kona Electric 150kW (Hyundai),65.0,1.5 years,Auto -  2WD,Blue,2020.0,50.0,0.0,Electric,20000.0,7 years battery warranty,Hatchback
+Fresh Condition Suzuki Swift Vxi 2009 Model onsale (Maruti Suzuki),13.5,personal,Manual 2WD,Silver,2009.0,13.0,1298.0,Petrol,64000.0,No Warranty,Sedan
+Hyundai tucson (Hyundai),23.5,private,Manual -  4WD,Blue,2009.0,12.0,2000.0,Diesel,73000.0,no warranty,Sedan
+Fresh Condition I10 Magna 1.2 2013 Model For Sell (Hyundai),17.0,personal,Manual -  2WD,White,2013.0,14.0,1200.0,Petrol,62000.0,No Warranty,Sedan
+Urgent Sale Tata xenon Doible cabin 4 WD 2015 (Tata),14.0,personal,Manual 4WD,Silver,2015.0,16.0,2200.0,Diesel,130000.0,No Warranty,Sedan
+Hyundai Creta 2022 model (Hyundai),48.0,personal,Manual -  2WD,White,2022.0,20.0,1350.0,Diesel,18206.0,No Warranty,Sedan
+hilux on sale (Toyota),76.0,personal,Auto -  4WD,White,2017.0,15.0,2700.0,Petrol,65000.0,nop,SUV
+suzuki brezza zdi+ (Maruti Suzuki),31.0,private,Manual -  2WD,Other,2017.0,18.0,1248.0,Diesel,56000.0,no warranty,Sedan
+Tata Sumo Victa 2008 (Tata),9.75,personal,Manual -  2WD,Silver,2008.0,20.0,1948.0,Diesel,56000.0,No Warranty,Sedan
+I10 Magna 2009 ( 9851008482) (Hyundai),13.5,personal,Manual -  2WD,Black,2009.0,15.0,1197.0,Petrol,199897.0,No Warranty,Sedan
+Eicher terra 16xp tipper sasto ma bikrima (Eicher),37.0,personal,Manual,Yellow,2021.0,16.0,4898.0,Diesel,3700.0,No Warranty,SUV
+suzuki alto (Maruti Suzuki),6.99,personal use,Auto -  2WD,Silver,2007.0,18.0,800.0,Petrol,196674.0,No Warranty,Hatchback
+Tata indica 500000 9860462630 (Tata),5.0,personal,Auto 2WD,Black,2007.0,15.0,1500.0,Petrol,20.0,No Warranty,Sedan
+Swift Dzire 2010 Model (Maruti Suzuki),14.0,1 year,Manual,Other,2010.0,15.0,1300.0,Petrol,61000.0,1 week,Sedan
+Ufo jeep for sale (Other Chinese Brands),15.0,personal,Manual 2WD,Black,2010.0,15.0,1600.0,Petrol,86000.0,No Warranty,Sedan
+Excellent Condition Maruti Suzuki Alto 800 On Sale,12.5,personal,Manual -  2WD,Other,2015.0,18.0,800.0,Petrol,40352.0,No Warranty,Hatchback
+omni cargo van 2012 for sale (Maruti Suzuki),5.25,few years,Manual -  2WD,White,2012.0,10.0,800.0,Petrol,8200.0,no,Hatchback
+good condition somu gold ex 2016 ko fresh xa (Tata),15.0,privet,Manual -  2WD,Other,2016.0,14.0,2900.0,Diesel,80000.0,no,SUV
+good condition bolero dubele cap 4×4 (Mahindra),17.5,privet,Manual -  4WD,White,2018.0,12.0,2523.0,Diesel,60000.0,no,SUV
+Double Cabin bolero on Sell with full condition (Mahindra),13.5,personal,Auto 4WD,Unknown,2014.0,20.0,1500.0,Diesel,92786.0,No Warranty,Sedan
+Like New 2021 Suzuki Wagon R up for sale (Maruti Suzuki),22.75,personal,Manual 2WD,Other,2021.0,15.0,1000.0,Petrol,15000.0,No Warranty,Sedan
+Hyundai I 10 Megna car On sell. (Hyundai),13.25,personal,Auto -  2WD,Silver,2009.0,15.0,1200.0,Petrol,70000.0,No Warranty,Sedan
+Swift Zxi 2015 Model With Push Bottom On Sale (Maruti Suzuki),21.49999,personal,Manual -  2WD,Red,2015.0,16.0,1200.0,Petrol,41100.0,No Warranty,Sedan
+2017 model bolero flat body sale or exng with car (Mahindra),14.5,personal,Manual 2WD,White,2017.0,12.0,2500.0,Petrol,53000.0,No Warranty,Sedan
+Maruti Suzuki Alto (Maruti Suzuki),11.0,singal hand,Manual,Silver,2011.0,17.0,1000.0,Petrol,58000.0,no,Sedan
+Honda City Zxi (Honda),11.0,personal,Manual -  2WD,Silver,2007.0,15.0,1500.0,Petrol,75000.0,No Warranty,Sedan
+Nissan Patrol Automatic (Nissan),115.0,personal,Auto 4WD,Silver,2014.0,16.0,3000.0,Diesel,119652.0,No Warranty,SUV
+Hyundai i20 Active (Hyundai),25.0,7 years',Manual -  2WD,Silver,2016.0,15.0,1200.0,Petrol,81000.0,No,Sedan
+Daihatsu terios 2014 model for sale (Daihatsu),43.0,personal,Manual 4WD,White,2014.0,15.0,1500.0,Petrol,59000.0,No Warranty,Sedan
+Santro For Sale (Hyundai),11.5,Home,Manual -  2WD,Black,2007.0,13.0,1096.0,Petrol,57000.0,No Warranty,Sedan
+2007 model maruti sujuki 800 car (Maruti Suzuki),5.15,personal,Auto -  2WD,White,2007.0,19.0,796.0,Petrol,147009.0,No Warranty,Hatchback
+2002 model maruti 800 car (Maruti Suzuki),3.65,personal,Auto -  2WD,White,2002.0,18.0,796.0,Petrol,56000.0,No Warranty,Hatchback
+Cargo Van (Maruti Suzuki),3.5,1 year,Auto -  2WD,Other,2010.0,10.0,800.0,Petrol,80000.0,No,Hatchback
+Crane (Other Brands),25.0,personal,Manual 2WD,Unknown,2010.0,15.0,1200.0,Petrol,209259.0,No Warranty,Sedan
+Swift Vxi 2009 (Maruti Suzuki),13.85,personal,Manual -  2WD,Blue,2009.0,14.0,1300.0,Petrol,76500.0,No Warranty,Sedan
+Tata Ace xL (Tata),9.5,2 years,Manual -  2WD,Other,2020.0,24.0,700.0,Diesel,28250.0,No Warranty,Hatchback
+MG ZS EV 2021 model (Other Brands),51.0,personal,Auto -  2WD,White,2021.0,100.0,0.0,Electric,30789.0,No Warranty,Hatchback
+Jimny Suv (Maruti Suzuki),17.0,Personal,Manual -  4WD,Green,1998.0,18.0,1200.0,Petrol,98000.0,No,Sedan
+Santro (Hyundai),22.25,personal,Manual 2WD,Other,2021.0,15.0,1086.0,Petrol,15000.0,No Warranty,Sedan
+Hyundai i20 Asta 1.4 Automatic for Sale!!! (Hyundai),18.0,personal,Auto 2WD,Other,2010.0,15.0,1400.0,Petrol,76342.0,No Warranty,Sedan
+Hyundai Santro Era 2021(9851008482) (Hyundai),22.25,personal,Manual -  2WD,Other,2021.0,15.0,1100.0,Petrol,15000.0,No Warranty,Sedan
+Hyundai Santro 2014 Silver (Hyundai),16.0,sometimes,Manual 2WD,Silver,2014.0,14.0,1186.0,Petrol,35000.0,No Warranty,Sedan
+For Sale (Eicher),6.5,personal,Auto -  4WD,Unknown,2015.0,20.0,1500.0,Diesel,118531.0,No Warranty,Sedan
+nissan supersaloon sedan car (Nissan),12.5,personel use,Manual 2WD,Other,2006.0,13.0,1596.0,Petrol,69000.0,no,Sedan
+Swift Zxi 2016 (Maruti Suzuki),22.6,personal,Manual -  2WD,Unknown,2016.0,15.0,1200.0,Petrol,42000.0,No Warranty,Sedan
+2011 BOLERO DOUBLE CAB 4WD (Mahindra),9.5,personal,Manual 4WD,White,2011.0,12.0,2523.0,Diesel,77000.0,No Warranty,SUV
+Single Hand 2015 Swift dzire zxi (Maruti Suzuki),21.0,personal,Manual 2WD,Other,2015.0,14.0,1197.0,Petrol,47000.0,No Warranty,Sedan
+Single hand 2010 i20 asta (Hyundai),15.75,personal,Manual 2WD,Other,2010.0,13.0,1197.0,Petrol,58000.0,No Warranty,Sedan
+Modified Small Hatchback Daihatshu cuore! (Daihatsu),5.75,1 year,Manual -  2WD,Blue,1997.0,12.0,850.0,Petrol,98521.0,No Warranty,Hatchback
+14 model Bolero is in sale (Mahindra),10.5,Chicken suppliers,Manual 2WD,White,2014.0,10.0,2900.0,Diesel,790000.0,No,SUV
+Ecosport Signature 2018(9851008482) (Ford),35.5,personal,Manual -  2WD,Blue,2018.0,15.0,1500.0,Petrol,63865.0,No Warranty,Sedan
+Tata Zest 2017 (Tata),24.0,2 years,Manual -  2WD,Silver,2017.0,15.0,1200.0,Petrol,29000.0,3 years,Sedan
+Hyundai eon era+ (Hyundai),10.75,personal,Manual -  2WD,Blue,2013.0,22.0,814.0,Petrol,45000.0,No Warranty,Hatchback
+Scorpio S4 Urgently Sell Ma (Mahindra),26.5,7 Years,Auto -  2WD,White,2015.0,15.0,2179.0,Diesel,155000.0,No,Sedan
+Ford Figo Titanium 2013 (Ford),12.0,Office and home,Manual -  2WD,White,2013.0,15.0,1200.0,Petrol,56000.0,No Warranty,Sedan
+Automatic Suzuki celerio on sale (Maruti Suzuki),18.0,personal,Auto -  2WD,Green,2014.0,15.0,1000.0,Petrol,121444.0,No Warranty,Sedan
+Santro 2010 Fresh (Hyundai),13.0,13 years,Manual -  2WD,White,2010.0,12.0,1100.0,Petrol,75000.0,Buy Back,Sedan
+Toyota Pickup (Toyota),8.75,personal,Auto -  4WD,Red,1997.0,16.0,2800.0,Diesel,333080.0,No Warranty,SUV
+santro bikrima (Hyundai),10.25,10,Manual -  2WD,Other,2006.0,18.0,1100.0,Petrol,100000.0,No Warranty,Sedan
+Suzuki Swift 2007 (Maruti Suzuki),11.0,personal,Manual -  2WD,Unknown,2017.0,15.0,1300.0,Petrol,72256.0,No Warranty,Sedan
+scorpio2015 (Mahindra),17.0,personal,Auto -  4WD,White,2015.0,20.0,1500.0,Diesel,87578.0,No Warranty,Sedan
+2014 modal ko mahendra sell (Mahindra),8.95,personal,Auto -  2WD,Other,2014.0,12.0,5000.0,Diesel,9800.0,No Warranty,SUV
+Hyundai i10 magna 1200 cc on sell (Hyundai),12.75,family,Manual -  2WD,Blue,2008.0,14.0,1200.0,Petrol,62000.0,no,Sedan
+Nexon ev xz+ (Tata),36.0,13 months,Auto 2WD,White,2021.0,50.0,0.0,Electric,25000.0,8 years,Hatchback
+Alto taxi (Maruti Suzuki),25.5,-,Auto -  2WD,Unknown,2018.0,15.0,800.0,Petrol,92286.0,No,Hatchback
+Ford freestyle titanium 2018 (Ford),23.0,Personal,Auto 2WD,Other,2018.0,50.0,1200.0,Petrol,47000.0,No Warranty,Sedan
+"Fresh, single handed, driven by doctor i10 sportz (Hyundai)",14.85,hospital to home,Manual -  2WD,Silver,2010.0,14.0,1200.0,Petrol,46374.0,No Warranty,Sedan
+KIA SPORTAG on sale (Kia),20.0,personal,Auto 4WD,Other,2006.0,50.0,2000.0,Diesel,54000.0,No,Sedan
+Hyundai tucson 1991 CC Fully loaded Four wheel 4×4 (Hyundai),20.5,13 year,Auto -  4WD,Other,2009.0,16.0,1991.0,Diesel,85000.0,No,Sedan
+Sonata (Hyundai),27.0,11,Manual 2WD,Silver,2010.0,10.0,2000.0,Petrol,50000.0,No Warranty,Sedan
+Kia Niro Ev (Kia),55.0,personal,Auto -  2WD,Silver,2019.0,100.0,0.0,Electric,46000.0,No Warranty,Hatchback
+Scorpio Pick Up 2016 4wd,23.0,Valley,Manual -  4WD,Silver,2016.0,18.0,2500.0,Diesel,60965.0,No,Sedan
+isuzu v-cross (Other Brands),44.99999,personal,Manual 4WD,Other,2017.0,16.0,2499.0,Diesel,56000.0,No Warranty,Sedan
+Ford Ecosport (Ford),17.7,personal,Manual -  2WD,Black,2015.0,15.0,1500.0,Petrol,75000.0,No Warranty,Sedan
+Land cruiser Prado vx 2017 model (Toyota),240.0,personal,Auto 4WD,Silver,2017.0,16.0,3000.0,Diesel,78564.0,No Warranty,SUV
+2003 model ko Omni seater van on sale (Maruti Suzuki),4.0,20 years,Auto -  2WD,White,2003.0,14.0,796.0,Petrol,70000.0,No Warranty,Hatchback
+Toyota Corolla LX exceptional condition for sale (Toyota),20.5,personal,Manual 2WD,Red,2009.0,18.0,1200.0,Petrol,77000.0,No Warranty,Sedan
+Excellent 2012 ford Figo with 50 percent finance (Ford),9.85,9 years,Manual 2WD,Red,2012.0,12.0,1200.0,Petrol,52000.0,No Warranty,Sedan
+Ford EcoSport wanted (Ford),18.0,personal,Manual 2WD,White,2016.0,15.0,1080.0,Petrol,50000.0,No Warranty,Sedan
+Excellent Singlehand 2016 breeza (Maruti Suzuki),24.9,5 years,Manual 2WD,White,2016.0,18.0,1300.0,Petrol,47000.0,No Warranty,Sedan
+Taxi 2004 For Sale (Maruti Suzuki),6.99,personal,Manual -  2WD,White,2004.0,50.0,800.0,Petrol,69000.0,No Warranty,Hatchback
+Excellent Condition Suzuki Swift Vxi 2009 on sale (Maruti Suzuki),13.75,personal,Manual 2WD,Silver,2009.0,13.0,1298.0,Petrol,209714.0,No Warranty,Sedan
+Santro 2003 Model (Hyundai),7.75,personal,Manual -  2WD,Blue,2003.0,15.0,1100.0,Petrol,80000.0,No Warranty,Sedan
+Ford Eco Sport on sale (Ford),21.5,personal,Auto 2WD,White,2015.0,14.0,1500.0,Petrol,42000.0,No Warranty,Sedan
+Need Hyundai i10 (Hyundai),14.0,personal,Auto 2WD,Unknown,2012.0,15.0,1200.0,Petrol,181972.0,No Warranty,Sedan
+i20 2016 urgent sale (Hyundai),24.0,personal,Manual -  2WD,Blue,2016.0,15.0,1200.0,Petrol,30000.0,No Warranty,Sedan
+"urgent sell,9844502651.9813628286 (Mahindra)",15.0,8,Auto -  4WD,White,2020.0,50.0,1200.0,Diesel,59371.0,1 year,Sedan
+urjent (Tata),10.5,personal,Auto -  2WD,Blue,2021.0,18.0,800.0,Diesel,30000.0,No Warranty,Hatchback
+Hyundai I10 magna 2014 (Hyundai),17.5,personal,Manual -  2WD,Other,2014.0,15.0,1200.0,Petrol,127048.0,No Warranty,Sedan
+I20 Magna (Hyundai),14.5,personal,Manual 2WD,Silver,2010.0,12.0,1200.0,Petrol,53000.0,No Warranty,Sedan
+Isuzu higher lander truck (Other Brands),45.0,any where,Manual -  4WD,White,2020.0,11.0,2500.0,Diesel,55000.0,company warranty,Sedan
+car (Chevrolet),5.75,personal,Manual -  2WD,Unknown,2012.0,15.0,1000.0,Petrol,25000.0,No Warranty,Sedan
+yodha ba 18 cha 2125 (Tata),9.0,6 years,Manual -  2WD,White,2017.0,10.0,2900.0,Diesel,1700000.0,No Warranty,SUV
+6 lakh good condition all tyre new (Kia),6.0,3year,Auto 2WD,Gray,2004.0,15.0,1300.0,Petrol,45000.0,Two months,Sedan
+Ssangyong Rexton Automatic 4WD (Ssangyong),110.0,personal,Auto 4WD,Black,2017.0,16.0,2157.0,Diesel,35000.0,No Warranty,Sedan
+Nissan micra 2017 is on sale (Nissan),14.5,personal,Manual -  2WD,Silver,2017.0,12.0,1200.0,Petrol,40000.0,No Warranty,Sedan
+Ecosport Titanium Full Option 2021 Ford (Ford),34.5,Self,Manual 2WD,Silver,2021.0,50.0,1497.0,Petrol,30000.0,Company Warrenty,Sedan
+Ford Figo (Ford),16.0,5,Manual 4WD,Red,2017.0,20.0,1656.0,Diesel,70000.0,No Warranty,Sedan
+Celerio X ZXI 2018 Maruti Suzuki (Maruti Suzuki),21.5,personal,Auto 4WD,White,2018.0,20.0,998.0,Petrol,38000.0,No Warranty,Hatchback
+2008 MODEL TOYOTA PRADO JEEP ON SALE (Toyota),70.0,PRIVATE,Manual 4WD,Silver,2008.0,50.0,3000.0,Diesel,110000.0,NO,SUV
+Kia Sportage 2010 AWD for sell (Kia),24.5,personal,Auto 4WD,Other,2010.0,10.0,1998.0,Petrol,56000.0,No Warranty,Sedan
+Bolero (Tata),16.0,personal,Manual 4WD,White,2016.0,16.0,2523.0,Diesel,120299.0,No Warranty,SUV
+Honda Amaze 1.2 SMT 2014 (Honda),17.75,personal,Manual 2WD,Brown,2014.0,15.0,1200.0,Petrol,57000.0,No Warranty,Sedan
+Nissan Sunny FE 1998 (Diesel) (Nissan),4.25,personal,Manual 2WD,Silver,1998.0,20.0,2000.0,Diesel,234965.0,No Warranty,Sedan
+2014 model single hand alto car (Maruti Suzuki),12.5,personal,Manual -  2WD,Silver,2014.0,17.0,800.0,Petrol,23000.0,no,Hatchback
+Swift VXI 2016 (Maruti Suzuki),20.0,personal,Manual 2WD,Silver,2016.0,15.0,1200.0,Petrol,49000.0,No Warranty,Sedan
+Land Cruiser Prado 1998 On Sale (Toyota),34.0,24 years,Manual -  4WD,Blue,1998.0,10.0,2800.0,Diesel,146000.0,No warranty,SUV
+Hyundai Creta S 2015 (Hyundai),29.5,personal,Manual 2WD,Silver,2015.0,15.0,1600.0,Petrol,88299.0,No Warranty,Sedan
+Urgent Sale (Safari) (Tata),8.5,15 Years,Auto 2WD,Gray,2006.0,12.0,2950.0,Diesel,1500.0,No Warranty,SUV
+Second hand isuzu Dmax (Other Brands),15.0,personal,Manual 2WD,White,2018.0,16.0,2999.0,Diesel,35000.0,No Warranty,SUV
+Second hand car (Tata),13.0,personal,Manual 2WD,White,2014.0,20.0,1248.0,Diesel,50000.0,No Warranty,Sedan
+brand new suzuki ignis 2022 (Maruti Suzuki),34.74,New,Manual 2WD,Blue,2022.0,17.0,1197.0,Petrol,315.0,As per company rules,Sedan
+urjent sale (Hyundai),11.25,5 years,Auto 2WD,Gray,2008.0,50.0,1086.0,Petrol,76009.0,No Warranty,Sedan
+Sale of Car (Datsun),15.0,personal,Manual,Other,2017.0,15.0,1200.0,Petrol,14000.0,No Warranty,Sedan
+BMW 318i 2003 Model with Automatic Gear (Other Brands),45.0,personal,Auto 2WD,Blue,2003.0,15.0,2000.0,Petrol,62000.0,No Warranty,Sedan
+Nissan Super Saloon 2007 Model (Nissan),12.5,personal,Manual 2WD,Other,2007.0,15.0,1500.0,Petrol,90000.0,No Warranty,Sedan
+Ford Endeavour 2016 Model with Automatic Gear (Ford),83.0,personal,Auto 4WD,White,2016.0,16.0,3200.0,Diesel,73000.0,No Warranty,SUV
+Tata ALTROZ top verient (Tata),29.0,1 and half year,Manual 2WD,Silver,2021.0,16.0,1200.0,Petrol,13000.0,No Warranty,Sedan
+venue (Hyundai),31.0,1.5,Manual 2WD,Silver,2020.0,20.0,1200.0,Petrol,6700.0,No Warranty,Sedan
+toyota lx 2008 (Toyota),19.5,14 years,Manual -  2WD,Gray,2008.0,11.0,1600.0,Petrol,71000.0,no,Sedan
+Hundai tucson 2009 on sell (Hyundai),21.0,2 years,Manual 4WD,Silver,2009.0,12.0,2000.0,Diesel,90000.0,No Warranty,Sedan
+Kia Hiace for sale. (Kia),14.0,personal,Manual 2WD,Silver,2011.0,16.0,2600.0,Diesel,114000.0,No Warranty,SUV
+suzuki (Maruti Suzuki),8.6,personal,Manual -  2WD,Red,2009.0,17.0,800.0,Petrol,67.0,No Warranty,Hatchback
+Hyundai I10 for sale (Hyundai),18.5,Personal,Manual,Other,2015.0,15.0,1100.0,Petrol,19800.0,No Warranty,Sedan
+Santro Xing 10 model Gandaki Zone (Hyundai),11.65,12 Years,Manual 2WD,Red,2010.0,50.0,1075.0,Petrol,50000.0,No Warranty,Sedan
+Santro Xing 2007 full option (Hyundai),9.5,16 Years,Manual 2WD,White,2007.0,18.0,1047.0,Petrol,67000.0,No Warranty,Sedan
+VW POLO 1.6 (Volkswagen),22.0,9 yrs,Manual 2WD,Silver,2014.0,15.0,1600.0,Petrol,47000.0,No Warranty,Sedan
+Maruti 2019cargo van (Maruti Suzuki),6.85,2,Auto 2WD,White,2019.0,12.0,800.0,Petrol,43628.0,No Warranty,Hatchback
+Cheverolet spark (american brand) (Chevrolet),7.25,personal,Manual 2WD,Red,2009.0,18.0,995.0,Petrol,63000.0,No Warranty,Hatchback
+Creta XsO CVT auto top 2021 (Hyundai),66.5,1year,Auto 2WD,White,2021.0,50.0,1499.0,Petrol,17000.0,4years,Sedan
+"VOLKSWAGEN POLO 1.6 , 2014 model, Hatchback (Volkswagen)",20.0,Personal single handed,Manual,Silver,2014.0,15.0,1600.0,Petrol,21000.0,No Warranty,Sedan
+Baleno Zeta 2016 Bagmati (Maruti Suzuki),22.5,personal,Manual -  2WD,White,2016.0,15.0,1200.0,Petrol,59000.0,No Warranty,Sedan
+Excellent Condition Alto 800 Lxi 2015 For Sell (Maruti Suzuki),12.5,personal,Manual -  2WD,Other,2015.0,18.0,800.0,Petrol,40000.0,No Warranty,Hatchback
+omni cargo (Maruti Suzuki),6.35,personal,Manual -  2WD,Unknown,2018.0,15.0,1080.0,Petrol,64454.0,No Warranty,Sedan
+Car (Other Chinese Brands),10.0,personal,Manual -  2WD,Red,2008.0,15.0,1300.0,Petrol,20000.0,No Warranty,Sedan
+chevrolet aveo luxurious car for sale (Chevrolet),10.5,personal,Manual -  4WD,Other,2008.0,11.0,1600.0,Petrol,68000.0,no warenty,Sedan
+volkswagen polo highline 1.6 2013 (Volkswagen),16.75,personal,Manual -  2WD,Silver,2013.0,15.0,1600.0,Petrol,123183.0,No Warranty,Sedan
+Like a new MG zs (EV) 110 kw (Other Brands),55.0,Pravite,Auto 2WD,White,2021.0,50.0,0.0,Electric,20000.0,Due,Hatchback
+Sell or exchange (Ford),19.75,Personal,Manual 2WD,Other,2013.0,15.0,1500.0,Petrol,31000.0,No Warranty,Sedan
+car on sale (Mitsubishi),22.5,company,Manual -  4WD,White,2007.0,16.0,2495.0,Diesel,176013.0,no,Sedan
+Tucson 2009 model URGENT sale (Hyundai),23.0,personal,Manual 4WD,Blue,2009.0,20.0,1997.0,Diesel,67000.0,No Warranty,Sedan
+Mahindra Scorpio S5 4WD (Mahindra),39.0,personal,Manual -  4WD,White,2017.0,14.0,2179.0,Diesel,70.0,No,Sedan
+Hyundai Elantra 2011 Model (Hyundai),30.0,personal,Manual -  2WD,Blue,2011.0,15.0,1600.0,Petrol,65000.0,No Warranty,Sedan
+kia rio fully fresh (Kia),8.75,few years,Manual -  2WD,Silver,2007.0,11.0,1400.0,Petrol,68000.0,no,Sedan
+car (Maruti Suzuki),13.0,personal,Manual -  2WD,Silver,2010.0,13.0,1200.0,Petrol,68000.0,no,Sedan
+Suzuki WagonR 2016 vxi single hand excellent condi (Maruti Suzuki),16.5,6 year,Manual 2WD,Other,2016.0,14.0,1000.0,Petrol,37000.0,1 year,Sedan
+Suzuki swift 2021 Zxi+ top option single hand (Maruti Suzuki),28.5,1 year,Manual 2WD,White,2021.0,14.0,1200.0,Petrol,22000.0,In company warranty,Sedan
+Brand New Brezza 2023 Model (Maruti Suzuki),52.99,personal,Manual -  2WD,Unknown,2023.0,19.0,1462.0,Hybrid,14366.0,As per company rules,Sedan
+ford ecosport 2014 automatic (Ford),24.5,personal,Auto -  2WD,Silver,2014.0,14.0,1200.0,Petrol,44000.0,No Warranty,Sedan
+Hyundai Tucson On Sale (Hyundai),21.5,Short time,Auto 4WD,Other,2008.0,12.0,2000.0,Diesel,65000.0,No,Sedan
+Maruti Suzuki Swift ZXI (Maruti Suzuki),26.25,personal,Manual 2WD,Silver,2018.0,15.0,1200.0,Petrol,33598.0,No Warranty,Sedan
+Polo on sale (Volkswagen),23.5,personal,Manual 2WD,Other,2016.0,10.0,1699.0,Petrol,47000.0,No Warranty,Sedan
+Volkswagen Polo 1.2 Trendline 2012 Model (Volkswagen),14.0,personal,Manual -  2WD,Red,2012.0,15.0,1200.0,Petrol,131623.0,No Warranty,Sedan
+Suzuki Wagon R on sales (Maruti Suzuki),11.0,personal,Manual -  2WD,Red,2010.0,15.0,1061.0,Petrol,49565.0,No Warranty,Sedan
+Eco cargo van: model 2019 (Maruti Suzuki),12.5,personal,Manual -  2WD,Unknown,2019.0,15.0,1196.0,Petrol,52113.0,No Warranty,Sedan
+Hyundai Creta 2016 (Hyundai),32.0,personal,Manual,Unknown,2016.0,15.0,1499.0,Petrol,21500.0,No Warranty,Sedan
+Scorpio s4 2016 model (Mahindra),31.0,personal,Manual -  2WD,Blue,2016.0,16.0,2200.0,Diesel,98459.0,No Warranty,Sedan
+Grand i10 Asta 2014 (Hyundai),20.9,personal,Manual -  2WD,Other,2014.0,15.0,1197.0,Petrol,42000.0,No Warranty,Sedan
+I10 Megna 2013 red color (Hyundai),16.0,3 years,Manual 2WD,Red,2013.0,13.0,1200.0,Petrol,62000.0,No Warranty,Sedan
+hyundai i 20active s 2016 on cell. (Hyundai),24.99,personal,Manual 2WD,White,2016.0,15.0,1200.0,Petrol,75317.0,No Warranty,Sedan
+Kia sonet (Kia),32.3,personal,Manual 2WD,Unknown,2021.0,15.0,1080.0,Petrol,8500.0,No Warranty,Sedan
+kia Picanto Ex 2010 (Kia),11.75,personal,Manual -  2WD,Blue,2010.0,15.0,1086.0,Petrol,50000.0,No Warranty,Sedan
+Grand i10 Magna 2015 (Hyundai),20.5,personal,Manual -  2WD,Silver,2015.0,15.0,1197.0,Petrol,39000.0,No Warranty,Sedan
+Nissan kicks 2021 model (Nissan),41.0,personal,Manual -  2WD,Other,2021.0,15.0,1600.0,Petrol,32000.0,No Warranty,Sedan
+"2005 model kia picanto fulloption sale,exng bikes (Kia)",7.95,personal,Manual 2WD,Black,2005.0,15.0,1000.0,Petrol,65000.0,No Warranty,Sedan
+Brezza ZXI 2019 (Maruti Suzuki),35.0,personal,Manual 2WD,Unknown,2019.0,15.0,1080.0,Petrol,17000.0,No Warranty,Sedan
+Hyundai grand i10 nios 2021 (Hyundai),29.5,Privaye,Manual 2WD,Unknown,2021.0,13.0,1200.0,Petrol,6000.0,No Warranty,Sedan
+2008 model kia sorento fully loaded sale ot exng (Kia),20.5,personal,Manual 4WD,Silver,2008.0,16.0,2500.0,Diesel,65000.0,No Warranty,Sedan
+maruti van (Maruti Suzuki),6.9,personal,Auto -  2WD,Silver,2012.0,18.0,800.0,Petrol,65000.0,No Warranty,Hatchback
+sell for mahindra pick-up bullero 1300000 (Mahindra),13.0,yes,Manual -  2WD,White,2013.0,18.0,1600.0,Diesel,81000.0,No,Sedan
+"Datsun Redi Go, 2016 (Datsun)",11.5,personal,Manual 2WD,Other,2016.0,22.0,800.0,Petrol,17000.0,No Warranty,Hatchback
+Vitara brezza 2023 booking open😍 (Maruti Suzuki),52.99,New,Manual 2WD,Black,2023.0,19.0,1462.0,Hybrid,314.0,As per company rules,Sedan
+Nissan Magnite 2021 Urgent sale (Nissan),27.0,Personal,Auto 2WD,White,2021.0,17.5,1000.0,Petrol,16000.0,No Warranty,Sedan
+Sale or Exchange: Volkswagen Cross Polo 1.6 (Volkswagen),26.0,personal,Manual 2WD,Silver,2016.0,15.0,1600.0,Petrol,23000.0,No Warranty,Sedan
+Ford Ranger XL 3.2c 2017 Model Single Hand On Sale (Ford),55.0,Home,Manual -  4WD,Silver,2017.0,11.0,3200.0,Diesel,61000.0,No Warranty,SUV
+hyundai creta 2018 on sale (Hyundai),37.75,personal,Manual 2WD,White,2018.0,14.0,1500.0,Petrol,35000.0,No Warranty,Sedan
+Maruti Suzuki alto k10 vxi. (Maruti Suzuki),14.5,Hospital,Auto -  2WD,Red,2016.0,19.0,998.0,Petrol,45000.0,no,Hatchback
+Fiat Punto Dynamic 2013 for Sale (Fiat),11.0,9,Manual -  2WD,Silver,2013.0,18.0,1248.0,Diesel,69500.0,No Warranty,Sedan
+"I10 Sportz Grey ,2011 Model 2 Hand , 52000 Km Run (Hyundai)",15.8,Few,Manual -  2WD,Other,2011.0,16.0,1197.0,Petrol,52000.0,No warranty,Sedan
+omni van 8 seater 2016 single hand (Maruti Suzuki),8.5,personal,Auto -  2WD,Silver,2016.0,16.0,800.0,Petrol,34000.0,no,Hatchback
+mahindra supro t4 (Mahindra),7.5,3 years,Auto -  2WD,Red,2018.0,13.0,1000.0,Diesel,75000.0,No Warranty,Sedan
+i 10 sale 9813637744 fullopson grey ktm rs 1445/- (Hyundai),14.45,all is ok,Manual -  2WD,Other,2011.0,18.0,1200.0,Petrol,51700.0,yes,Sedan
+Car (Toyota),25.0,12yrs,Manual,Other,2011.0,50.0,1200.0,Petrol,70000.0,No,Sedan
+SWIFT ZXI 2014 On Urgent Sale (Maruti Suzuki),18.5,8 Years,Manual 2WD,White,2014.0,15.0,1197.0,Petrol,141758.0,No Warranty,Sedan
+Hyundai Creta 2021 sx ivt top model (Hyundai),65.0,personal,Auto 2WD,Silver,2021.0,15.0,1500.0,Petrol,6000.0,No Warranty,Sedan
+skoda laura 2011 (Skoda),15.25,personal,Manual -  2WD,Black,2011.0,10.0,1896.0,Diesel,70000.0,No Warranty,Sedan
+Hyundai i10 magna (Hyundai),15.0,N/a,Auto 2WD,Other,2011.0,15.0,1086.0,Petrol,116177.0,No,Sedan
+MG ZS EV 2021 model (Other Brands),54.0,personal,Auto -  2WD,White,2021.0,100.0,0.0,Electric,46516.0,No Warranty,Hatchback
+Hyundia I 10 magna (Hyundai),17.0,personal,Auto 2WD,Unknown,2012.0,15.0,1197.0,Petrol,48000.0,No,Sedan
+Grand i10 Sportz on Sale (Hyundai),24.75,personal,Manual -  2WD,Gray,2018.0,16.0,1200.0,Petrol,36500.0,No Warranty,Sedan
+Ford EcoSport Titanium 2015 Model (Ford),22.0,personal,Manual -  2WD,Silver,2015.0,15.0,1200.0,Petrol,125641.0,No Warranty,Sedan
+Hyundai Tucson 2009 model (Hyundai),20.0,personal,Manual -  4WD,Green,2009.0,20.0,1500.0,Diesel,147461.0,No Warranty,Sedan
+Maruti Omni Van 2018 (Maruti Suzuki),9.2,4 years,Auto -  2WD,Silver,2018.0,13.0,796.0,Petrol,35000.0,No,Hatchback
+Toyota Etios V (Toyota),17.0,personal,Manual,Other,2014.0,15.0,1500.0,Petrol,52000.0,No Warranty,Sedan
+Zen Stailo Vxi 2010 (Maruti Suzuki),10.25,personal,Manual -  2WD,Other,2010.0,18.0,996.0,Petrol,51000.0,No Warranty,Hatchback
+Brezza on sale (Maruti Suzuki),42.0,personal,Manual,Silver,2021.0,15.0,1500.0,Petrol,16000.0,No Warranty,Sedan
+TOYOTA YARIS MADE IN JAPAN (Toyota),15.99,personal,Manual -  2WD,Red,2007.0,15.0,1496.0,Petrol,143475.0,No Warranty,Sedan
+Suzuki Swift VXI 2013 (Maruti Suzuki),17.0,personal,Manual -  2WD,White,2013.0,15.0,1200.0,Petrol,156984.0,No Warranty,Sedan
+Mahindra kuv100 k6 (Mahindra),17.5,personal,Manual 2WD,Red,2016.0,16.0,1000.0,Petrol,44532.0,No Warranty,Sedan
+Datsun Go (Datsun),11.0,7,Auto 2WD,Other,2014.0,16.0,1200.0,Petrol,65000.0,no,Sedan
+Suzuki baleno 2017 (Maruti Suzuki),20.5,personal,Manual 2WD,White,2017.0,15.0,1080.0,Petrol,45000.0,No Warranty,Sedan
+Kia Picanto 2006 (Kia),9.5,personal,Manual,Blue,2006.0,12.0,1086.0,Diesel,72000.0,No Warranty,Sedan
+Suzuki (Maruti Suzuki),5.2,personal,Manual -  2WD,Other,2001.0,16.0,1061.0,Petrol,75.0,No Warranty,Sedan
+Vw Vento 1.6L Highline Plus 2013 Exchange Also (Volkswagen),17.75,9 years,Manual -  2WD,Other,2013.0,14.0,1600.0,Petrol,53500.0,5 years,Sedan
+Mahindra Scorpio S6 plus 2017 (Mahindra),34.0,personal,Manual -  2WD,Silver,2017.0,16.0,2200.0,Diesel,94425.0,No Warranty,Sedan
+"Kia Sonet , Kiasonet Car SUV (Kia)",31.25,personal,Manual -  2WD,Unknown,2021.0,15.0,1200.0,Petrol,42000.0,No Warranty,Sedan
+Bolero single cab mahindra sell (Mahindra),12.0,personal,Auto 2WD,White,2016.0,20.0,1350.0,Diesel,100000.0,No Warranty,Sedan
+Ford Aspire 2015 (Ford),15.75,Personal use,Manual 2WD,Other,2015.0,13.0,1196.0,Petrol,485780.0,NO,Sedan
+Hyundai Creta SXO 2019 model (Hyundai),51.5,personal,Manual -  2WD,Silver,2019.0,15.0,1080.0,Petrol,68244.0,No Warranty,Sedan
+Ford Freestyle 2020 model (Ford),24.5,personal,Manual -  2WD,Silver,2020.0,15.0,1080.0,Petrol,55812.0,No Warranty,Sedan
+Hyundai Santro Xing 2010 model (Hyundai),11.5,personal,Manual -  2WD,Black,2010.0,15.0,1200.0,Petrol,125063.0,No Warranty,Sedan
+Maruti zen (Maruti Suzuki),3.35,personal,Manual 2WD,Unknown,2000.0,15.0,1200.0,Petrol,263542.0,No Warranty,Sedan
+Volkswagen Vento TSl AT Sales & exchange offer (Volkswagen),52.4,personal,Auto -  2WD,Unknown,2021.0,15.0,1080.0,Petrol,27702.0,No Warranty,Sedan
+TATA TIGOR XZ+ (Tata),19.99,personal,Manual -  2WD,Silver,2017.0,20.0,1199.0,Petrol,102300.0,No Warranty,Sedan
+Isuzu Dmax Vcross (Other Brands),52.0,personal,Manual -  4WD,Other,2017.0,16.0,2499.0,Diesel,60000.0,No Warranty,Sedan
+Hyundai i20 Active S|2017| Urgent sale| Full fresh (Hyundai),27.25,Official works only,Manual 2WD,White,2017.0,14.0,1200.0,Petrol,30000.0,No Warranty,Sedan
+Hyundai Xcent Sx O 2014 (Hyundai),20.5,personal,Manual 2WD,Silver,2014.0,15.0,1196.0,Petrol,54383.0,No Warranty,Sedan
+Maruti suzuki wagoner 2015 (Maruti Suzuki),14.55,personal,Manual 2WD,Other,2015.0,15.0,1000.0,Petrol,52000.0,No Warranty,Sedan
+Maruti Suzuki swift dzire 2009 ON SALE (Maruti Suzuki),11.7,personal used,Auto -  2WD,Blue,2009.0,15.0,1200.0,Petrol,85000.0,No Warranty,Sedan
+TATA 1109 (Tata),27.99,personal,Manual -  2WD,White,2018.0,16.0,3700.0,Diesel,90000.0,No Warranty,SUV
+Bolero pick up (Mahindra),18.0,Personal,Auto 4WD,White,2018.0,20.0,1350.0,Diesel,90000.0,No Warranty,Sedan
+Kia on sales (Kia),5.5,Personal,Auto 2WD,White,2004.0,50.0,1200.0,Petrol,320000.0,No,Sedan
+गाडी बिक्रीमा (Mahindra),21.0,personal,Manual -  4WD,White,2015.0,15.0,2200.0,Diesel,64000.0,No Warranty,Sedan
+Scorpio S4+ (Mahindra),38.5,5,Manual 4WD,Blue,2017.0,15.0,2200.0,Diesel,5600.0,No Warranty,Sedan
+Hyundai Creta 2017 base model SingleHand For Sale (Hyundai),32.85,personal,Manual 2WD,Silver,2017.0,10.0,1600.0,Petrol,49000.0,No Warranty,Sedan
+Single Hand Used Fully Loaded Family Car Swift VXI (Maruti Suzuki),16.759,Few Years,Manual 2WD,Other,2012.0,18.0,1197.0,Petrol,55000.0,No Warranty,Sedan
+"Volkswagen polo 1.6 2011 silver, fresh condition, (Volkswagen)",15.0,personal,Manual 2WD,Silver,2011.0,12.0,1600.0,Petrol,55000.0,No Warranty,Sedan
+Car sell on urgent (Honda),12.9,Office to home,Manual 4WD,Other,2007.0,13.0,1350.0,Petrol,75000.0,No,Sedan
+PROTON WIRA (2003) (Other Brands),5.75,personal,Manual -  2WD,Unknown,2003.0,15.0,1498.0,Petrol,19000.0,No Warranty,Sedan
+picanto silver (Kia),10.5,personal,Manual -  2WD,Silver,2009.0,15.0,1100.0,Petrol,83000.0,No Warranty,Sedan
+Hyundai Creta SX+ 2017 Model Fulloptions On Sale (Hyundai),41.0,personal,Manual -  2WD,White,2017.0,12.0,1500.0,Petrol,41000.0,No Warranty,Sedan
+Ford figo titanium 2015 (Ford),12.5,personal,Auto 2WD,Other,2015.0,15.0,1200.0,Petrol,50000.0,No Warranty,Sedan
+Renault duster RXS 2018 (Renault),25.0,personal,Manual -  2WD,Unknown,2018.0,15.0,1500.0,Petrol,50000.0,No Warranty,Sedan
+Urgent sell (Tata),9.5,2 years,Auto 2WD,Blue,2021.0,20.0,600.0,Diesel,123.0,0,Hatchback
+Picanto 2008 Silver full option (Kia),9.0,personal,Manual 2WD,Silver,2008.0,14.0,1100.0,Petrol,53000.0,No Warranty,Sedan
+2013 model ford figo singlehand sale or exng bikes (Ford),12.5,personal,Manual 2WD,Silver,2013.0,15.0,1200.0,Petrol,43000.0,No Warranty,Sedan
+2019 Hyundai Grand i10 Sportz (Hyundai),25.75,personal,Manual 2WD,Gray,2019.0,15.0,1197.0,Petrol,20000.0,No Warranty,Sedan
+Mahindra xuv 500 w10 2016 model for sale (Mahindra),38.5,personal,Manual 4WD,Other,2016.0,16.0,2200.0,Diesel,53000.0,No Warranty,Sedan
+Maruti Suzuki Alto 800 for sale (Maruti Suzuki),15.0,personal,Auto -  2WD,Unknown,2020.0,15.0,1080.0,Petrol,51550.0,No Warranty,Sedan
+Grand I 10 Magna 1.2 (2019 Model) (Hyundai),25.5,personal,Manual -  2WD,Silver,2019.0,16.0,1196.0,Petrol,17000.0,No Warranty,Sedan
+sky vetor dozer on sale (Other Brands),45.0,personal,Manual -  4WD,Unknown,2017.0,20.0,1350.0,Diesel,75477.0,No Warranty,Sedan
+TATA VISTA 2010 FOR SALE (Tata),7.0,4 YEARS,Manual 2WD,Black,2010.0,15.0,1300.0,Petrol,84000.0,No Warranty,Sedan
+School bus sale (Other Brands),10.5,School,Auto 2WD,Yellow,2013.0,10.0,3200.0,Diesel,60000.0,No,SUV
+tata motors super ace (Tata),6.5,सामान वसार पसार गर्ने ।,Manual,Other,2015.0,12.0,1400.0,Diesel,150.0,इन्जिन 1 बर्ष बेटरि 6 महिना।,Sedan
+Mazda 3 (Mazda),12.75,17 years,Manual -  2WD,Other,2005.0,14.0,1600.0,Petrol,36000.0,none,Sedan
+toyota corolla old vintage 1975 car (Toyota),5.0,personal,Manual -  4WD,Unknown,1975.0,15.0,1200.0,Petrol,50000.0,No Warranty,Sedan
+"2006 model suzuki japanese vitara 4wd,fully loaded (Maruti Suzuki)",19.5,personal,Manual 4WD,Silver,2006.0,15.0,2000.0,Petrol,75000.0,No Warranty,Sedan
+Urgent sale Maruti van 2018 Model good condition (Maruti Suzuki),7.0,Delrvery purpose,Auto 4WD,White,2018.0,15.0,796.0,Petrol,63000.0,no,Hatchback
+SWIFT LXI 2005 (Urgent Sale ) All Tax cleared (Maruti Suzuki),8.99999,personal,Manual 2WD,Silver,2005.0,15.0,1200.0,Petrol,70000.0,No Warranty,Sedan
+Hyundai creta sxo petrol 2019 (Hyundai),48.5,personal,Manual -  2WD,White,2019.0,14.0,1598.0,Petrol,41000.0,No Warranty,Sedan
+four sale swift zxi 2017 model (Maruti Suzuki),22.5,personal,Manual -  2WD,Unknown,2017.0,15.0,1200.0,Petrol,35680.0,No Warranty,Sedan
+Japanese Model Mazda 3 On Sale Air Bag N Abs Fresh (Mazda),9.5,15 Years,Manual -  2WD,Blue,2004.0,10.0,1600.0,Petrol,61000.0,w,Sedan
+pick up van bikrima (Maruti Suzuki),2.0,personal,Manual -  2WD,White,1999.0,16.0,800.0,Petrol,20000.0,No Warranty,Hatchback
+Brezza Zxi + petrol 2021 Single owner 9851138810 (Maruti Suzuki),39.75,1 year,Manual -  2WD,White,2021.0,15.0,1500.0,Petrol,18500.0,No Warranty,Sedan
+Single hand Honda Jazz VMT Fully Loaded 2016 (Honda),24.75,Private,Manual 2WD,Other,2016.0,12.0,1200.0,Petrol,37000.0,Yes,Sedan
+Santro (Hyundai),12.5,7 month,Manual 2WD,Silver,2009.0,13.0,1096.0,Petrol,78000.0,No Warranty,Sedan
+sales (Mahindra),12.0,comercial,Manual -  2WD,White,2016.0,16.0,2523.0,Diesel,127130.0,No Warranty,SUV
+indica 2007 model DLE (Tata),5.0,home to office,Auto 2WD,White,2007.0,18.0,1400.0,Diesel,53000.0,no,Sedan
+Hilux 2010 (Toyota),35.0,Home,Manual 4WD,Silver,2010.0,15.0,2500.0,Diesel,100000.0,No warrant,Sedan
+Car (Volkswagen),14.9,Nepal,Auto -  4WD,White,2011.0,14.0,1600.0,Petrol,38000.0,No,Sedan
+I10 on sale (Hyundai),16.0,personal,Manual 2WD,Gray,2012.0,50.0,1100.0,Petrol,33000.0,No Warranty,Sedan
+Hyundai i20 active 2016 model in sell (Hyundai),26.5,personal,Manual -  2WD,White,2016.0,15.0,1200.0,Petrol,40000.0,No Warranty,Sedan
+Urgent sale Hundai i20 Active (Hyundai),29.5,Home,Auto 2WD,Silver,2015.0,12.0,1200.0,Petrol,53000.0,No Warranty,Sedan
+Kia Sportage 2016 model single handed in sell (Kia),57.0,personal,Manual -  4WD,Other,2016.0,20.0,1350.0,Diesel,70860.0,No Warranty,Sedan
+Nissan Datsun Redi Go Brand New Condition 5000k (Datsun),17.5,personal,Manual -  2WD,White,2021.0,15.0,1000.0,Petrol,5000.0,No Warranty,Sedan
+santro full option (Hyundai),12.0,personal use,Auto -  2WD,Red,2005.0,12.0,1000.0,Petrol,42000.0,no,Sedan
+Alto Taxi 2019 (Maruti Suzuki),2.8,3 years,Manual -  2WD,White,2019.0,17.0,800.0,Petrol,125000.0,No Warranty,Hatchback
+Scorpio double cab 4wd (Mahindra),25.75,5 years,Manual 4WD,Silver,2017.0,12.0,2200.0,Diesel,88000.0,No Warranty,Sedan
+Kia picanto 2008 (Kia),8.8,personal,Manual,Red,2008.0,15.0,1086.0,Petrol,70000.0,No Warranty,Sedan
+FULL FRESH FULLY LOADED HYUNDAI TUCSON ON SALE (Hyundai),18.75,13 years,Manual 4WD,Blue,2008.0,17.0,2000.0,Diesel,66000.0,No Warranty,Sedan
+Tucson for sale (Hyundai),18.5,2,Manual -  4WD,Blue,2007.0,15.0,2000.0,Diesel,560000.0,no,Sedan
+Maruti Suzuki Swift 2015 Vxi Single Use For Sale (Maruti Suzuki),18.75,5 year,Manual -  2WD,Other,2015.0,16.0,1200.0,Petrol,48000.0,Yes,Sedan
+Honda City 2014 (Honda),20.99,9 years,Manual -  2WD,Other,2014.0,12.0,1500.0,Petrol,55000.0,No Warranty,Sedan
+hyundai eon (Hyundai),9.0,personal,Manual -  2WD,Silver,2012.0,14.0,814.0,Petrol,40000.0,No Warranty,Hatchback
+Hyundai i20 Asta Dual Tone (Hyundai),27.0,personal,Auto 2WD,White,2017.0,15.0,1200.0,Petrol,74473.0,No Warranty,Sedan
+tipper (Tata),38.0,aa,Manual -  4WD,White,2019.0,40.0,5000.0,Diesel,50000.0,no,SUV
+Maruti Suzuki Zen for sale ! (Maruti Suzuki),4.5,personal,Manual 2WD,Blue,2002.0,50.0,993.0,Petrol,27000.0,No Warranty,Hatchback
+Maruti Suzuki Brezza Zdi plus 2018 (Maruti Suzuki),32.0,personal,Manual -  2WD,White,2018.0,14.0,1400.0,Diesel,43000.0,No Warranty,Sedan
+Suzuki Swift ZXI (Maruti Suzuki),23.0,Personal Home Office inside ktm,Manual 2WD,Other,2016.0,15.3,1248.0,Petrol,30000.0,No Warranty,Sedan
+I20 Sportz Brand New Car for sale. (Hyundai),36.0,1 Yr,Manual 2WD,White,2021.0,20.0,1200.0,Petrol,16000.0,No Warranty,Sedan
+Taxi on sell (Maruti Suzuki),2.11,personal,Auto 4WD,Unknown,2015.0,15.0,1200.0,Petrol,96671.0,No Warranty,Sedan
+Renault Duster RXZ+ AWD 2017 DCI for Sale (Renault),34.0,6Yrs,Auto 4WD,Other,2017.0,12.0,1500.0,Diesel,45000.0,Manufacturer/Importer,Sedan
+endeavor (Ford),110.0,personal,Auto -  4WD,White,2016.0,12.0,3200.0,Diesel,62000.0,No Warranty,SUV
+maruti swift (Maruti Suzuki),26.5,Few time,Manual 2WD,Silver,2020.0,50.0,1200.0,Petrol,11000.0,Company..,Sedan
+Hyundai i10 Magna 2014 (Hyundai),17.0,personal,Manual -  2WD,Red,2014.0,15.0,1200.0,Petrol,39000.0,No Warranty,Sedan
+DATSUN GO 1.2 2016 FOR SALE (Datsun),13.25,7Yrs,Manual 2WD,Other,2016.0,12.0,1200.0,Petrol,39000.0,Manufacturer/Importer,Sedan
+sell (Maruti Suzuki),32.0,personal,Manual,Red,2018.0,14.0,1200.0,Diesel,66000.0,No Warranty,Sedan
+Creta Sx + petrol for sale (Hyundai),34.5,Private,Manual 2WD,White,2016.0,12.0,1600.0,Petrol,41000.0,No Warranty,Sedan
+Hyundai i20 Active S 2019 (Single Handed) (Hyundai),32.0,personal Use,Manual -  2WD,White,2019.0,15.0,1400.0,Petrol,39000.0,No Warranty,Sedan
+urgent sell (Tata),36.0,personal,Auto 2WD,Green,2021.0,15.0,1200.0,Petrol,36000.0,No Warranty,Sedan
+Suzuki Balena (2017) For Sale! (Maruti Suzuki),24.0,personal,Manual 2WD,Unknown,2017.0,15.0,1080.0,Petrol,95572.0,No Warranty,Sedan
+Mitsubishi L200 - 4WD Pickup - Hilux Model (Mitsubishi),20.5,personal,Manual 4WD,White,2007.0,8.0,2500.0,Diesel,79000.0,No Warranty,Sedan
+Hyundai Tucson 2009 (Hyundai),21.0,personal Used,Manual 4WD,Silver,2009.0,12.0,1191.0,Diesel,65000.0,No Warranty,Sedan
+Sell (Kia),25.15,Prived,Manual 4WD,Other,2009.0,10.0,2000.0,Diesel,71000.0,"No,",Sedan
+Mahindra KUV 100 K8 (Mahindra),22.5,personal,Auto 2WD,Red,2016.0,50.0,1198.0,Petrol,35000.0,No warranty,Sedan
+ford Figo titanium on sale (Ford),10.0,personal,Manual -  2WD,Red,2011.0,15.0,1200.0,Petrol,80000.0,No Warranty,Sedan
+Hyundai Tucson ix35 4WD (Hyundai),36.5,personal,Manual 4WD,Other,2011.0,12.0,1995.0,Diesel,87000.0,No Warranty,Sedan
+Toyota Land Cruiser Prado Vx (Toyota),235.0,personal,Auto -  4WD,Silver,2017.0,16.0,4461.0,Diesel,85000.0,No Warranty,SUV
+Ford Ranger Autogear 4wd 55 Lakh Bank Available (Ford),88.0,personal,Auto -  4WD,Other,2020.0,16.0,3200.0,Diesel,17000.0,No Warranty,SUV
+Volkswagen Tiguan Allspace for sale (Volkswagen),87.0,Driving,Auto 4WD,Other,2017.0,15.0,1984.0,Petrol,50000.0,No Warranty,Sedan
+Fresh condition Toyota RAV4 (Toyota),34.9,personal,Auto -  4WD,Red,2010.0,12.0,2400.0,Petrol,84000.0,No Warranty,Sedan
+Toyota RAV4 2013 Model (Toyota),65.0,personal,Manual -  4WD,Other,2013.0,12.0,2500.0,Petrol,142894.0,No Warranty,Sedan
+urgent sale 9841395832 (Mahindra),7.5,personal,Manual 2WD,Unknown,2015.0,16.0,2600.0,Diesel,9.0,No Warranty,SUV
+Maruti Suzuki Swift Dzire Zxi 2015 (Maruti Suzuki),21.5,personal,Manual 4WD,Silver,2015.0,15.0,1197.0,Petrol,40014.0,No Warranty,Sedan
+I10 sportz 1.2 for sale (Hyundai),15.99999,12 years,Manual -  2WD,Other,2011.0,13.0,1200.0,Petrol,52000.0,no,Sedan
+Kiger On Sell (Renault),25.0,Private,Manual,Blue,2021.0,15.0,1000.0,Petrol,18000.0,Available,Sedan
+i10 Hyundai Magna - Silver (Hyundai),15.0,Personal use,Manual 2WD,Silver,2010.0,14.0,1200.0,Petrol,58000.0,No,Sedan
+Single handed isuzu s-cab for sale (Other Brands),29.75,5years,Manual -  2WD,Silver,2018.0,13.0,2500.0,Diesel,30000.0,no,Sedan
+Ford Figo exi for sale (Ford),12.25,10 years,Manual -  2WD,Silver,2013.0,13.0,1200.0,Petrol,4000.0,no,Sedan
+TOYOTA RAV4 FOR SALE (Toyota),33.0,personal purpose,Auto 4WD,Silver,2015.0,12.0,2494.0,Petrol,12000.0,No Warranty,Sedan
+"Toyota HILUX On Sale RS. 36,00,000 (Toyota)",36.0,Personal Commuting,Manual 4WD,White,2010.0,16.0,2755.0,Diesel,207031.0,No Warranty,SUV
+Well Maintained Swift Dzire VXI 2012 for sell (Maruti Suzuki),17.0,10,Manual -  2WD,Silver,2012.0,13.0,1200.0,Petrol,63000.0,No Warranty,Sedan
+vehicle available for sale (Other Brands),15.0,personal,Manual,Red,2022.0,50.0,15.0,Electric,3000.0,No Warranty,Hatchback
+Tata bus 1512 euro 3 jodi bus sasto ma (Tata),5.0,5 yrs,Manual -  4WD,White,2016.0,5.0,5000.0,Diesel,60000.0,non,SUV
+KIA Sportage urgent sale (Kia),18.75,14 years,Manual -  4WD,Red,2007.0,13.0,2000.0,Diesel,68000.0,No Warranty,Sedan
+Hyundai Santafee (Hyundai),80.0,personal,Auto 4WD,Red,2012.0,16.0,2199.0,Diesel,141599.0,No Warranty,Sedan
+tata Indica (Tata),5.5,personal,Manual,White,2007.0,15.0,1200.0,Petrol,77000.0,No Warranty,Sedan
+Baleno (Maruti Suzuki),21.5,personal,Manual,Other,2016.0,15.0,1080.0,Petrol,57186.0,No Warranty,Sedan
+Tata sumo bikrima (Tata),15.0,personal,Manual -  2WD,Black,2016.0,16.0,2800.0,Diesel,74088.0,No Warranty,SUV
+tucson (Hyundai),17.5,16,Auto -  4WD,Blue,2006.0,12.0,1992.0,Diesel,160000.0,No Warranty,Sedan
+Hyundai Santro GL plus 2011 Model (Hyundai),14.0,personal,Manual 2WD,Silver,2011.0,15.0,1086.0,Petrol,97000.0,No Warranty,Sedan
+chevtolet (Chevrolet),8.35,personal,Manual -  2WD,Other,2010.0,11.0,1400.0,Petrol,70100.0,No Warranty,Sedan
+Single hand grand i10 magna 2018(airbag) on sale (Hyundai),22.5,personal,Manual 2WD,Red,2018.0,15.0,1200.0,Petrol,27000.0,No Warranty,Sedan
+Skoda fabia on sale (Skoda),12.5,personal,Manual -  2WD,Silver,2012.0,15.0,1200.0,Petrol,68000.0,No Warranty,Sedan
+Volkswagen Polo 1.6 Highline (Volkswagen),21.0,6 yrs,Manual -  2WD,Silver,2015.0,15.0,1600.0,Petrol,49000.0,No Warranty,Sedan
+tata sumo gold ex 2014 (Tata),12.5,privet,Manual,Other,2014.0,16.0,2956.0,Diesel,135353.0,No Warranty,SUV
+Mahindra scorpio pickup (Mahindra),24.0,personal,Manual 4WD,Unknown,2016.0,16.0,2200.0,Diesel,111021.0,No Warranty,Sedan
+Super Fresh Condition 2007 Model Toyota Hilux (Toyota),26.95,Personal,Manual -  4WD,White,2007.0,10.0,2500.0,Diesel,80000.0,Some days,Sedan
+Toyota Hilux (Toyota),26.95,Personal,Manual -  4WD,White,2007.0,10.0,2500.0,Diesel,80000.0,Some days,Sedan
+Japanese Sirion on Sale (Daihatsu),9.3,personal,Manual -  2WD,Silver,2007.0,15.0,1300.0,Petrol,78000.0,No Warranty,Sedan
+Tata nexon xza + on sell (Tata),37.0,personal,Auto -  4WD,Silver,2021.0,20.0,1200.0,Petrol,5000.0,5 years,Sedan
+New Electric taxi booking open (Tata),45.0,personal,Auto -  2WD,White,2023.0,100.0,0.0,Electric,0.0,3 years warranty,Hatchback
+jamma 1350000 maa 15 ko tata sumo (Tata),14.0,personal,Auto -  2WD,Other,2015.0,20.0,1500.0,Diesel,80000.0,No Warranty,Sedan
+Wagonr 2017 model vxi Car sale (Maruti Suzuki),16.9,personal,Manual -  2WD,Red,2017.0,17.0,999.0,Petrol,31000.0,no,Hatchback
+Hyundai Kona EV 2021 with only 10000 Km (Hyundai),55.5,personal,Auto 2WD,Other,2021.0,100.0,0.0,Electric,10000.0,No Warranty,Hatchback
+KIA Sportage on Sale!! (Kia),9.9,personal,Manual 4WD,Other,2001.0,13.0,2200.0,Diesel,143000.0,No Warranty,Sedan
+Hyundai i20 Magna 2013 (Hyundai),17.35,10 Years,Manual -  2WD,Other,2013.0,14.0,1197.0,Petrol,44000.0,No warranty,Sedan
+VOLKSWAGEN POLO GT TSI Autogear 2013 (Volkswagen),24.5,personal,Auto 2WD,White,2013.0,15.0,1200.0,Petrol,35000.0,No Warranty,Sedan
+Single Handed Eeco 7 Seater 2018 For Sell,17.0,personal,Manual -  2WD,Silver,2018.0,12.0,1200.0,Petrol,41000.0,No Warranty,Sedan
+Toyata Rav4 Autogear 2008 Model On Sale Urgent (Toyota),38.0,personal,Auto -  4WD,White,2008.0,12.0,2362.0,Petrol,91000.0,No Warranty,Sedan
+Triber Renualt 2021 (Renault),23.5,1.6 year,Auto 2WD,Other,2021.0,16.0,999.0,Petrol,14000.0,Yes,Hatchback
+Fully fresh Hyundai grand i10 Magna (Hyundai),22.25,personal,Manual 2WD,Silver,2016.0,15.0,1197.0,Petrol,33000.0,No Warranty,Sedan
+car on sale (Hyundai),11.0,personal,Manual,Other,2008.0,15.0,1000.0,Petrol,88000.0,No Warranty,Sedan
+Mitsubishi pajero 5 door for sale (Mitsubishi),128.0,personal,Auto 4WD,Unknown,2016.0,16.0,3200.0,Diesel,99529.0,No Warranty,SUV
+grand vitara (Maruti Suzuki),75.99,Brand new,Manual 4WD,Silver,2023.0,29.87,1490.0,Hybrid,315.0,As per company rules,Sedan
+Hyundai Creta (Hyundai),35.85,personal,Manual -  4WD,Other,2015.0,15.0,1591.0,Petrol,57000.0,No Warranty,Sedan
+Toyota Hilux (Toyota),78.0,personal,Manual -  4WD,Other,2018.0,16.0,2755.0,Diesel,40000.0,No Warranty,SUV
+Toyota Hilux (Toyota),78.0,personal,Manual -  4WD,Silver,2018.0,16.0,2755.0,Diesel,40000.0,No Warranty,SUV
+tata winger school van (Tata),10.0,personal,Manual -  2WD,Yellow,2010.0,8.0,1900.0,Diesel,82000.0,No Warranty,Sedan
+Toyota hilux (Toyota),78.0,personal,Manual -  4WD,Silver,2018.0,16.0,2755.0,Diesel,40000.0,No Warranty,SUV
+Hyundai Creta (Hyundai),35.9,personal,Auto -  2WD,Silver,2015.0,15.0,1591.0,Petrol,57000.0,No Warranty,Sedan
+Hyundai Creta (Hyundai),35.85,personal,Manual -  2WD,Silver,2015.0,15.0,1591.0,Petrol,57000.0,No Warranty,Sedan
+Renault Kiger RXL MT Auto Gear (Renault),27.85,personal,Auto -  2WD,Silver,2021.0,18.0,999.0,Petrol,7000.0,No Warranty,Hatchback
+SONET (KIA) (Kia),32.0,personal,Manual 2WD,Red,2021.0,15.0,1200.0,Petrol,11000.0,No Warranty,Sedan
+"comapany color, fully loaded, freshcreta sx plus (Hyundai)",36.5,home,Manual -  2WD,Silver,2016.0,12.0,1600.0,Petrol,39243.0,No Warranty,Sedan
+Hyundai Creta E Premium Loaded - Petrol (Hyundai),54.56,personal,Manual 2WD,Unknown,2023.0,15.0,1080.0,Petrol,13950.0,No Warranty,Sedan
+Loan 15 lakh - 17 lakh cash buy this auto captiva (Chevrolet),17.0,personal,Auto -  4WD,Unknown,2013.0,20.0,1500.0,Diesel,131508.0,No Warranty,Sedan
+Grand i10 Magna 2014 (Hyundai),18.75,personal,Manual -  4WD,Other,2014.0,15.0,1197.0,Petrol,42000.0,No Warranty,Sedan
+polo 1.6 high-Line 2016 (Volkswagen),24.5,personal,Manual -  2WD,Other,2016.0,15.0,1600.0,Petrol,49000.0,No Warranty,Sedan
+Tata nexon xm s (Tata),36.5,personal,Manual 2WD,White,2021.0,15.0,1200.0,Petrol,17000.0,No Warranty,Sedan
+Hyundai getz (Hyundai),9.25,personal,Manual 2WD,Blue,2008.0,15.0,1400.0,Petrol,67000.0,No Warranty,Sedan
+nissan super saloon 2005 model on sale (Nissan),11.0,personal,Manual,Silver,2005.0,15.0,1600.0,Petrol,100500.0,No Warranty,Sedan
+Excellent 9817874410 (Tata),16.5,5 years,Auto 2WD,Red,2014.0,14.0,2956.0,Diesel,125000.0,No Warranty,SUV
+Single hand 2018 model Isuzu S-Cab sales & Exchang (Other Brands),30.5,personal,Manual -  2WD,Unknown,2018.0,16.0,2499.0,Diesel,72982.0,No Warranty,Sedan
+Toyota echo (Toyota),9.5,personal,Manual,Other,2003.0,15.0,1300.0,Petrol,140000.0,No Warranty,Sedan
+Ecosport 2013 trend model (Ford),17.75,personal,Manual 2WD,White,2013.0,20.0,1200.0,Diesel,54500.0,No Warranty,Sedan
+scorpio m2 di crd (Mahindra),11.85,personal,Auto -  2WD,Black,2006.0,16.0,2523.0,Diesel,206609.0,No Warranty,SUV
+Maruti suzuki s cross (Maruti Suzuki),25.0,personal,Manual 2WD,Gray,2016.0,50.0,1350.0,Diesel,68664.0,No Warranty,Sedan
+winger 14 seter 2018 ko fresh xa (Tata),18.0,privet,Manual -  2WD,Silver,2018.0,12.0,1900.0,Diesel,55060.0,no,Sedan
+Swift Zxi 2006 Single Hand (Maruti Suzuki),13.9,17 years,Manual -  2WD,Silver,2006.0,14.0,1200.0,Petrol,55000.0,Buy back,Sedan
+Tata intra V20 on sale (Tata),14.5,2 years,Manual -  2WD,Blue,2020.0,12.0,1396.0,Diesel,28000.0,No Warranty,Sedan
+Toyota Corolla lx new shape with double airbag (Toyota),17.25,personal,Manual -  2WD,Black,2007.0,15.0,1600.0,Petrol,47000.0,No Warranty,Sedan
+Tata Tigor (Tata),24.0,personal,Auto 2WD,Red,2020.0,15.0,1080.0,Petrol,34505.0,No Warranty,Sedan
+Tata Tipper (Tata),18.0,3 yrs,Auto 2WD,Blue,2017.0,20.0,1350.0,Diesel,79000.0,No Warranty,Sedan
+fresh rio hatchback on sell with sunroof (Kia),8.2,personal,Manual -  2WD,Other,2006.0,17.0,1400.0,Petrol,65000.0,No Warranty,Sedan
+Mahindra bolero (Mahindra),7.5,Marketing,Auto 2WD,White,2013.0,16.0,2523.0,Diesel,142803.0,No Warranty,SUV
+i20 active s (Hyundai),26.5,personal,Manual -  2WD,Unknown,2015.0,15.0,1200.0,Petrol,95970.0,No Warranty,Sedan
+Hiace for sale (Toyota),38.0,personal,Manual 2WD,White,2015.0,16.0,2800.0,Diesel,108555.0,No Warranty,SUV
+Family car on sale - Perodua viva (Perodua),7.65,personal,Manual -  2WD,Silver,2008.0,18.0,850.0,Petrol,36000.0,No Warranty,Hatchback
+Suzuki vittara 3 door (Maruti Suzuki),8.75,personal,Manual 4WD,White,1992.0,15.0,1600.0,Petrol,100000.0,No,Sedan
+Bolero Maxx on Sell. (Mahindra),14.0,personal,Manual,White,2018.0,20.0,1350.0,Diesel,34000.0,No Warranty,Sedan
+well maintained fully fresh engine i20 on sale (Hyundai),12.5,office,Manual 2WD,Silver,2010.0,16.0,1200.0,Petrol,48000.0,no,Sedan
+KIA Sorento (Kia),55.0,personal,Auto 4WD,Silver,2009.0,20.0,1500.0,Diesel,55000.0,No Warranty,Sedan
+Hyundai Creta 2017 (Hyundai),33.9,personal,Manual -  2WD,Other,2017.0,15.0,1598.0,Petrol,41000.0,No Warranty,Sedan
+Omni cargo 2016 model (Maruti Suzuki),5.5,personal,Manual -  4WD,Unknown,2016.0,18.0,800.0,Petrol,119475.0,No Warranty,Hatchback
+Honda CR-V 2018 (Honda),107.0,personal,Auto 4WD,White,2018.0,15.0,1500.0,Petrol,8300.0,No Warranty,Sedan
+Fresh Maruti Car On Sales (Maruti Suzuki),5.5,personal,Manual -  2WD,Silver,2006.0,15.0,800.0,Petrol,81155.0,No Warranty,Hatchback
+wagan R 2008 vxi (Maruti Suzuki),8.35,10 years,Manual -  2WD,Other,2008.0,16.0,1087.0,Petrol,55000.0,No Warranty,Sedan
+Terios (Daihatsu),15.0,"family , office",Manual,Red,1999.0,10.0,1300.0,Petrol,254872.0,No Warranty,Sedan
+Full fresh condition zyotee mini JEEP on sale (Other Brands),9.95,12 years,Manual 2WD,Black,2010.0,14.0,1300.0,Petrol,48000.0,No Warranty,Sedan
+Vw poli 1.6 single hand (Volkswagen),16.5,personal,Manual 2WD,Black,2011.0,13.0,1600.0,Petrol,47000.0,No Warranty,Sedan
+Suzuki Swift Dzire 2010 Vxi (Maruti Suzuki),13.99999,personal,Auto -  2WD,White,2010.0,16.0,1200.0,Petrol,61000.0,No Warranty,Sedan
+Skoda Rapid 2021 with 15 lakh Finance (Skoda),30.0,personal,Manual -  2WD,White,2021.0,15.0,1000.0,Petrol,21000.0,No Warranty,Sedan
+Hyundai I10 (2014 Model) (Hyundai),17.0,9,Manual 2WD,Other,2014.0,16.5,1049.0,Petrol,41848.0,No Warranty,Sedan
+2010 maruti suzuki ritz fully loaded (Maruti Suzuki),10.99,all kind,Manual 2WD,Silver,2010.0,14.0,1200.0,Petrol,750000.0,no,Sedan
+Skoda Rapid 2013 (Skoda),16.25,personal use,Manual 2WD,Silver,2013.0,22.0,1500.0,Diesel,73000.0,yes,Sedan
+Tata Tiago On Sale (Tata),19.8,4 years,Manual -  2WD,Other,2019.0,15.0,1200.0,Petrol,20000.0,No Warranty,Sedan
+Kia sportage lxi petrol (Kia),48.5,4.5yrs,Manual 2WD,Silver,2018.0,13.0,2000.0,Petrol,52000.0,No,Sedan
+all new Ford Fiesta titanium (Ford),15.0,personal,Manual -  2WD,Gray,2013.0,18.0,1500.0,Diesel,96000.0,no,Sedan
+Mahindra Bolero 2009 model for sale (Mahindra),8.9,personal,Manual 2WD,White,2009.0,16.0,2523.0,Diesel,170321.0,No Warranty,SUV
+Ford Eco sport (2015) white (Ford),21.5,personal,Manual -  2WD,White,2015.0,15.0,1500.0,Petrol,70000.0,No Warranty,Sedan
+407 Tata Mini Trac Sell (Tata),9.25,5 years,Manual,Other,2017.0,10.0,1350.0,Diesel,40000.0,No,Sedan
+2010 Model New Shape I10 Magna 1.2 On Sale (Hyundai),14.75,10 Years,Manual -  2WD,Other,2010.0,14.0,1200.0,Petrol,61000.0,@,Sedan
+Hyundai Getz 2009 Model Full Option (Hyundai),9.2,personal,Manual -  2WD,Unknown,2009.0,15.0,1350.0,Petrol,72000.0,No Warranty,Sedan
+Excellent Condition Suzuki Eeco van 2012 on Sale (Maruti Suzuki),12.25,personal,Manual 2WD,Other,2012.0,12.0,1200.0,Petrol,48000.0,No Warranty,Sedan
+Excellent Condition Suzuki Swift Zxi 2008 on sale (Maruti Suzuki),13.99999,personal,Manual 2WD,Other,2008.0,13.0,1300.0,Petrol,66000.0,No Warranty,Sedan
+Hyundai i10 (Hyundai),24.0,2 years,Manual -  2WD,Silver,2020.0,50.0,1200.0,Petrol,26500.0,no,Sedan
+Tata sumo ex gold (Tata),11.75,SUV/Jeep,Manual,Other,2013.0,16.0,2956.0,Diesel,93000.0,No Warranty,SUV
+Suzuki Swift Dzire VXI 2009 (Maruti Suzuki),11.9,personal,Manual -  2WD,Silver,2009.0,15.0,1200.0,Petrol,60000.0,No Warranty,Sedan
+Very Fresh Car for Sale(2016) (Skoda),19.75,6 years,Manual 2WD,White,2016.0,50.0,1.4,Diesel,60000.0,No,Hatchback
+Rav4 (Toyota),65.0,4,Manual -  2WD,Other,2013.0,12.0,2500.0,Petrol,55000.0,1,Sedan
+Hyundai Matrix with Sunroof (Hyundai),6.5,personal,Manual -  2WD,Unknown,2003.0,15.0,1200.0,Petrol,290639.0,No Warranty,Sedan
+Toyota avanza 2006 for sales (Toyota),18.0,Prosnal,Auto 2WD,Silver,2006.0,11.0,1300.0,Petrol,8500.0,No,Sedan
+Ford Freestyle Titanium On Sale (Ford),24.95,personal,Auto 2WD,White,2018.0,15.0,1200.0,Petrol,28800.0,No Warranty,Sedan
+Jyoti For Sale (Other Brands),10.5,Bharosa,Manual -  2WD,Red,2011.0,12.0,1500.0,Petrol,76000.0,No Warranty,Sedan
+Lxi Alto (Maruti Suzuki),13.5,Bharosa,Manual -  2WD,White,2016.0,16.0,800.0,Petrol,56000.0,No Warranty,Hatchback
+Scorpio S5+ 2020 Model (Mahindra),42.0,personal,Manual -  4WD,White,2020.0,20.0,1350.0,Diesel,40189.0,No Warranty,Sedan
+vitara brezza zdi+ (Maruti Suzuki),30.25,5,Manual -  2WD,White,2017.0,17.0,1250.0,Diesel,50000.0,no,Sedan
+Suzuki swift zxi 2014 (Maruti Suzuki),20.0,personal,Manual -  2WD,Silver,2014.0,14.0,1500.0,Petrol,89542.0,No Warranty,Sedan
+Scorpio S4 Plus 2017 model (Mahindra),36.0,personal,Manual -  4WD,Blue,2017.0,20.0,1350.0,Diesel,73403.0,No Warranty,Sedan
+Mahindra tipper (Mahindra),18.0,personal construction,Auto 2WD,Blue,2018.0,16.0,2609.0,Diesel,23000.0,No Warranty,SUV
+FORD ECO SPORTS IN IMMACULATE CONDITION (Ford),23.5,4 YRS,Manual,Other,2018.0,15.0,1500.0,Petrol,35500.0,No Warranty,Sedan
+"Swift Dzire vxi ,2008 model, petrol,9851016822 (Maruti Suzuki)",12.5,personal,Manual -  2WD,Other,2008.0,15.0,1300.0,Petrol,66235.0,No Warranty,Sedan
+"Nios grand i10 magna,2021 model, petrol,9851016822 (Hyundai)",27.75,personal,Manual -  2WD,Gray,2021.0,15.0,1200.0,Petrol,12000.0,No Warranty,Sedan
+Singelhand 2018 breeza zdi+ with finance (Maruti Suzuki),33.5,3 years,Manual 2WD,White,2018.0,18.0,1300.0,Diesel,32000.0,No Warranty,Sedan
+"Grand i10 magna ,2017 model,9851016822,Finance hnx (Hyundai)",22.25,personal,Manual -  2WD,Red,2017.0,15.0,1200.0,Petrol,33256.0,No Warranty,Sedan
+"full option Swift zxi ,2014 model,9851016822 (Maruti Suzuki)",20.75,personal,Manual -  2WD,Silver,2014.0,15.0,1200.0,Petrol,42136.0,No Warranty,Sedan
+"Swift zxi with push button,2017 model, petrol, (Maruti Suzuki)",25.5,personal,Manual -  2WD,Silver,2017.0,15.0,1200.0,Petrol,39523.0,No Warranty,Sedan
+"Eeco van 7 seater with airbag Petrol,2020 model, (Maruti Suzuki)",18.5,personal,Manual -  2WD,Silver,2020.0,15.0,1200.0,Petrol,23000.0,No Warranty,Sedan
+"Hyundai Grand I10, 2018 Model, Only 17000km Silver (Hyundai)",23.5,private (home-office),Manual 2WD,Silver,2018.0,15.0,1200.0,Petrol,17000.0,upto 2025 March,Sedan
+2020 Wagon r new 1200cc facelift with 75% finance (Maruti Suzuki),21.9,2 years,Manual 2WD,Silver,2019.0,18.0,1200.0,Petrol,17300.0,No Warranty,Sedan
+Suzuki Alto Lxi 2018 Model (Maruti Suzuki),13.99,personal,Manual,Silver,2018.0,18.0,800.0,Petrol,42000.0,No Warranty,Hatchback
+Hilux Tiger 2002 model (Toyota),16.25,Official purpose,Manual 4WD,Green,2002.0,10.0,3000.0,Diesel,150000.0,No Warranty,SUV
+Maruti Suzuki Wagon R VXI 2013 last model (Maruti Suzuki),14.05,9 years,Manual 2WD,White,2013.0,21.0,998.0,Petrol,46160.0,No Warranty,Hatchback
+Hyundai Verna SX 1.6 (Hyundai),19.5,personal,Manual 2WD,Blue,2012.0,50.0,1600.0,Petrol,71000.0,No Warranty,Sedan
+Maruti Suzuki Ciaz ZXI | 2015 |45000km (Maruti Suzuki),25.0,Personal,Manual 2WD,Silver,2015.0,50.0,1400.0,Petrol,45000.0,No Warranty,Sedan
+nexon xz+ petrol 2020 single ownership (Tata),32.5,personal,Manual -  2WD,Unknown,2020.0,15.0,1080.0,Petrol,35000.0,No Warranty,Sedan
+Toyota Rav 4 Auto Gear 9741819070 (Toyota),12.45,personal,Auto -  4WD,White,1998.0,15.0,1997.0,Petrol,248580.0,No Warranty,Sedan
+Tata nissan CRX (Mahindra),7.5,personal,Manual -  2WD,Unknown,2009.0,20.0,1500.0,Diesel,226407.0,No Warranty,Sedan
+Tata zest xt 2016 model for sale (Tata),18.5,personal,Manual 2WD,White,2016.0,15.0,1200.0,Petrol,39000.0,No Warranty,Sedan
+"Perodua myvi 2009 model, excellent condition (Perodua)",7.7,personal,Auto -  2WD,Silver,2009.0,12.0,1300.0,Petrol,75000.0,No Warranty,Sedan
+2018 model Mahindra Electric car E2O plus P6 (Mahindra),19.75,personal,Auto -  2WD,Silver,2018.0,100.0,0.0,Electric,85310.0,No Warranty,Hatchback
+Nissan Navara (Nissan),12.0,personal,Manual -  4WD,White,2005.0,20.0,1500.0,Diesel,246249.0,No Warranty,Sedan
+2015 Model Daihatsu Terios 4 wd drive 9847699255 (Daihatsu),44.5,personal,Manual -  4WD,Other,2015.0,15.0,1500.0,Petrol,43000.0,No Warranty,Sedan
+maruti suzuki wagner (Maruti Suzuki),15.5,5,Manual -  2WD,Other,2014.0,20.0,1000.0,Petrol,48.0,non,Sedan
+Tata Yodha on sale (Tata),13.0,personal,Auto -  2WD,White,2018.0,20.0,1350.0,Diesel,46000.0,No Warranty,Sedan
+Swift zxi 2016 (Maruti Suzuki),23.75,personal,Manual -  2WD,Silver,2016.0,15.0,1200.0,Petrol,38000.0,No Warranty,Sedan
+Grand i10 Asta 2016 (Hyundai),23.75,personal,Manual -  2WD,Silver,2016.0,14.0,1200.0,Petrol,52000.0,No Warranty,Sedan
+Toyota Corolla Lx Fully Loaded Double Airbags (Toyota),17.5,personal,Manual -  2WD,Blue,2007.0,15.0,1600.0,Petrol,47000.0,No Warranty,Sedan
+Maruti Delivery Van (Maruti Suzuki),5.05,Household use,Manual 2WD,White,2015.0,15.0,800.0,Petrol,52500.0,No Warranty,Hatchback
+Maruti suzuki Celerio Vxi Auto 2014 model for sale (Maruti Suzuki),18.0,personal,Auto 2WD,Green,2014.0,15.0,1000.0,Petrol,47000.0,No Warranty,Sedan
+Ford Figo Single Woner No Dent Super Fresh Car (Ford),16.5,personal,Manual -  2WD,Red,2017.0,15.0,1200.0,Petrol,43000.0,No Warranty,Sedan
+Toyota Avanza 7 seater for sale 2013 model (Toyota),21.5,personal,Manual 2WD,Silver,2013.0,15.0,1300.0,Petrol,53000.0,No Warranty,Sedan
+Mahindra Bolero DC 2017 pickup for sale (Mahindra),19.5,personal,Manual 4WD,White,2017.0,16.0,2523.0,Diesel,38000.0,No Warranty,SUV
+Hyundai i20 sports 2010 model for sale (Hyundai),15.5,personal,Manual 2WD,Other,2010.0,12.0,1200.0,Petrol,73747.0,No Warranty,Sedan
+Maruti suzuki eco van for sale 2016 model (Maruti Suzuki),14.5,personal,Manual 2WD,Silver,2016.0,15.0,1200.0,Petrol,54590.0,No Warranty,Sedan
+Grand i 10 Astha 14 modrl (Hyundai),19.5,personal,Manual 2WD,Gray,2014.0,15.0,1200.0,Petrol,63000.0,No Warranty,Sedan
+sentro Xing (Hyundai),11.5,personal,Manual,White,2009.0,15.0,1086.0,Petrol,60000.0,No Warranty,Sedan
+Ford Figo On Sale (Ford),9.99999,Year,Manual -  2WD,Black,2011.0,13.0,1199.0,Petrol,53000.0,No,Sedan
+suzuki brezza (Maruti Suzuki),41.0,2years,Manual -  2WD,Black,2021.0,15.0,1500.0,Petrol,24500.0,No Warranty,Sedan
+4w Suv On Sale In Very Very Barand New Condition (Mahindra),23.99999,Few year,Manual -  4WD,White,2020.0,14.0,0.0,Diesel,49000.0,No,Hatchback
+Honda civic (Honda),15.75,10,Manual 2WD,Other,2007.0,10.0,1600.0,Petrol,60000.0,No,Sedan
+Car for sale (Hyundai),10.0,personal,Manual 2WD,Blue,2012.0,17.0,814.0,Petrol,47000.0,No Warranty,Hatchback
+Suzuki swift VXI (Maruti Suzuki),14.5,personal,Manual 2WD,Unknown,2010.0,15.0,1200.0,Petrol,205443.0,No Warranty,Sedan
+terios on sale (Daihatsu),25.5,personal,Manual -  4WD,Unknown,2007.0,15.0,1500.0,Petrol,53000.0,No Warranty,Sedan
+Hatti gadi Mahindra maximo plus color white (Mahindra),4.5,2013 Model,Manual,White,2013.0,15.0,901.0,Diesel,16057.0,No Warranty,Hatchback
+Toyota aca33r 2008 For Sell (Toyota),50.0,personal,Manual -  4WD,Black,2008.0,16.0,2362.0,Diesel,226983.0,No Warranty,Sedan
+Datsun Go Sale Second Hand (Datsun),13.25,personal,Manual,Gray,2015.0,15.0,1200.0,Petrol,87689.0,No Warranty,Sedan
+Hyundai I 10 asta for sale (Hyundai),20.0,personal,Manual -  2WD,Other,2014.0,25.0,1200.0,Petrol,62000.0,No Warranty,Sedan
+Eeco Van 2018 Model (Maruti Suzuki),15.25,personal,Manual -  2WD,White,2018.0,15.0,1200.0,Petrol,63000.0,No Warranty,Sedan
+Chevrolet yuva (Chevrolet),6.8,4 Years,Manual,Other,2008.0,10.0,1200.0,Petrol,72000.0,No Warranty,Sedan
+Hyundai Creta SX (Facelift) 2019 For Sale (Hyundai),44.5,4 Years,Manual -  2WD,Other,2019.0,12.0,1598.0,Petrol,37000.0,Manufacturer/ Importer,Sedan
+Suzuki maruti 800 (Maruti Suzuki),6.0,All,Manual 2WD,Other,2006.0,18.0,800.0,Petrol,266875.0,No,Hatchback
+Kia Soprtage GT line 2021 (Kia),90.0,Single handed,Auto 2WD,White,2021.0,10.0,2000.0,Petrol,30000.0,No Warranty,Sedan
+Santro xing (Hyundai),11.7,personal,Manual -  2WD,Red,2009.0,15.0,1100.0,Petrol,184248.0,No Warranty,Sedan
+Car On Sale (Tata),9.0,personal,Manual -  2WD,White,2015.0,15.0,1200.0,Petrol,63.0,No Warranty,Sedan
+urgent sale (Tata),14.0,Personal,Manual -  2WD,Silver,2010.0,12.0,2200.0,Petrol,57200.0,No Warranty,Sedan
+Hyundai santro for sell (Hyundai),11.5,Private,Manual 2WD,Blue,2008.0,20.0,1200.0,Petrol,11111.0,No,Sedan
+Maruti Suzuki Alto for sale (Maruti Suzuki),6.3,Personal use,Auto 2WD,Silver,2000.0,18.0,800.0,Petrol,4950.0,No Warranty,Hatchback
+Toyota | Fortuner | 2010 | 4WD | SUV (Toyota),57.5,Private Use,Manual 2WD,Black,2010.0,10.0,3000.0,Petrol,105000.0,No Warranty,SUV
+Tata nano with ac (Tata),3.9,10 years,Manual -  2WD,White,2012.0,23.0,624.0,Petrol,35000.0,No Warranty,Hatchback
+SUPER FRESH CONDITION ZYOTEE MINI JEEP ON SALE (Other Brands),8.75,12 years,Manual 2WD,White,2009.0,14.0,1300.0,Petrol,52000.0,No Warranty,Sedan
+Scoripio (Mahindra),36.75,personal,Manual -  4WD,Blue,2017.0,16.0,2200.0,Diesel,65000.0,No Warranty,Sedan
+2009 ko kia spotes tu sell (Kia),16.0,personal,Auto -  2WD,Other,2009.0,10.0,1900.0,Petrol,76000.0,No Warranty,Sedan
+2010 ZOTYE 1.3 SINGLE HAND (Other Brands),10.25,personal,Manual 2WD,Black,2010.0,13.0,1300.0,Petrol,55000.0,No Warranty,Sedan
+Isuzu scab 2021 exchange or sell (Other Brands),35.5,personal,Manual 2WD,Unknown,2021.0,16.0,2500.0,Diesel,42640.0,No Warranty,Sedan
+712 mina bus sale and exchange car bike bullet (Tata),18.5,5,Manual 2WD,White,2015.0,8.0,4000.0,Diesel,105000.0,No,SUV
+50% फाईन्नस सुबिधा भएको ciaz car बिक्रीमा (Maruti Suzuki),22.0,personal,Manual -  2WD,White,2015.0,17.0,1387.0,Petrol,44500.0,no,Sedan
+Hyundai Creta (Hyundai),55.0,personal,Manual 2WD,Silver,2018.0,15.0,1600.0,Petrol,30000.0,No Warranty,Sedan
+MG Hector Shine (Other Brands),48.0,personal,Manual 2WD,Black,2021.0,15.0,1080.0,Petrol,7700.0,No Warranty,Sedan
+Ford ecoport Trend model (Ford),25.0,personal,Manual 2WD,Brown,2016.0,15.0,1500.0,Petrol,45000.0,No Warranty,Sedan
+Car for sales (Maruti Suzuki),7.15,personal,Manual 4WD,Unknown,2009.0,18.0,800.0,Petrol,80000.0,No Warranty,Hatchback
+Honda city 2015 (Honda),23.2,personal,Manual -  2WD,Silver,2015.0,15.0,1490.0,Petrol,30100.0,No Warranty,Sedan
+Cevrolet Spark 2009 Model Full Loded (Chevrolet),9.0,personal,Auto 2WD,Other,2009.0,50.0,1000.0,Petrol,85000.0,No Warranty,Sedan
+Santro Xing For Sale (Hyundai),9.75,personal,Auto -  2WD,Blue,2005.0,15.0,1100.0,Petrol,82000.0,No Warranty,Sedan
+toyota fortuner (Toyota),97.0,year,Manual -  4WD,White,2015.0,12.0,3000.0,Diesel,45000.0,No Warranty,SUV
+Full Option Santro Xing Urgent Sale (Hyundai),8.75,personal,Manual -  2WD,Other,2004.0,15.0,1068.0,Petrol,297037.0,No Warranty,Sedan
+Hyundai i10 sportz for sale (Hyundai),14.5,private use,Auto -  2WD,Other,2009.0,15.0,1200.0,Petrol,80000.0,no warenty,Sedan
+creta sx sale.showroom condition (Hyundai),57.0,1 year,Manual 2WD,Red,2021.0,12.0,1500.0,Petrol,14000.0,No Warranty,Sedan
+Ford Figo (Ford),10.75,personal,Manual -  2WD,Black,2011.0,15.0,1200.0,Petrol,60000.0,No Warranty,Sedan
+2010 model (Maruti Suzuki),7.75,personal,Manual -  2WD,Unknown,2010.0,15.0,1200.0,Petrol,149654.0,No Warranty,Sedan
+Volkswagen Polo 2018 (Volkswagen),24.5,personal,Manual 2WD,Brown,2018.0,18.0,998.0,Petrol,27969.0,No Warranty,Hatchback
+CAR ON SALE (Maruti Suzuki),12.5,office only,Manual -  2WD,Unknown,2009.0,15.0,1200.0,Petrol,137885.0,No Warranty,Sedan
+Kia Rio (Kia),5.4,Good,Auto 2WD,Black,2004.0,14.0,1400.0,Petrol,60000.0,No,Sedan
+Maruti Suzuki Swift Zxi 2014 (Maruti Suzuki),20.25,personal,Manual 2WD,Other,2014.0,15.0,1197.0,Petrol,47582.0,No Warranty,Sedan
+MAHINDRA BOLERO PICKUP 4 WHEEL (Mahindra),11.5,personal,Manual -  4WD,Other,2016.0,12.0,2500.0,Petrol,46230.0,No Warranty,Sedan
+MARUTI SUZUKI ALTO ALTO CAR 800 (Maruti Suzuki),6.0,personal,Manual -  2WD,Silver,2004.0,18.0,800.0,Petrol,63586.0,No Warranty,Hatchback
+HYUNDAI SANTRO XING SEMI OPTION CAR (Hyundai),17.25,personal,Manual -  2WD,Silver,2014.0,15.0,1086.0,Petrol,52490.0,No Warranty,Sedan
+ALTO K10 SEMI OPTION CAR (Hyundai),5.9,personal,Manual -  2WD,Other,2002.0,15.0,1061.0,Petrol,62570.0,No Warranty,Sedan
+Hyundai | Venue S | 2019 | CUV (Hyundai),30.5,personal,Manual 2WD,Red,2019.0,12.0,1200.0,Petrol,40000.0,No Warranty,Sedan
+Maruti Suzuki Swift Zxi On Sale.. (Maruti Suzuki),18.97,7years,Manual 2WD,Silver,2014.0,15.0,1197.0,Petrol,74000.0,No,Sedan
+"Creta sx (o), 2019, silver color 9863861301 (Hyundai)",51.0,personal,Manual 2WD,Silver,2019.0,15.0,1600.0,Petrol,20000.0,No Warranty,Sedan
+Renault Duster RXZ+ 2016 (Renault),24.75,Personal Used,Manual -  2WD,Silver,2016.0,17.0,1500.0,Diesel,75000.0,Yes,Sedan
+dzire vxi 2014 (Maruti Suzuki),17.0,personal,Auto -  2WD,White,2014.0,14.0,1200.0,Petrol,65300.0,No Warranty,Sedan
+Hyundai i10 Magna 1.2 2013 For Sale (Hyundai),17.0,10 Years,Manual -  2WD,Silver,2013.0,13.0,1200.0,Petrol,50000.0,Manufacturer/ Importer,Sedan
+Tata nano car (Tata),3.5,7 years,Manual 4WD,Blue,2011.0,27.0,624.0,Petrol,71000.0,Engine and gearbox for two years,Hatchback
+Brand new japanese vitara 4Wd😍😍😍 (Maruti Suzuki),89.5,New,Auto 4WD,Silver,2021.0,27.97,1586.0,Hybrid,1000.0,Yes,Sedan
+maruti suzuki celerio vxi 2014 auto gear (Maruti Suzuki),18.0,8 years,Auto -  2WD,Other,2014.0,15.0,998.0,Petrol,47000.0,No,Hatchback
+Tata sumo gold urgent on the (Tata),12.0,personal,Manual,Unknown,2009.0,20.0,1500.0,Diesel,150616.0,No Warranty,Sedan
+Tata sumo gold urgent on the (Tata),12.0,personal,Manual,Unknown,2009.0,20.0,1500.0,Diesel,172127.0,No Warranty,Sedan
+2019 airbag with abs breck sell (Maruti Suzuki),27.25,personal,Manual -  2WD,Unknown,2019.0,15.0,1080.0,Petrol,71448.0,No Warranty,Sedan
+WagonR 2018 full fresh on sale (Maruti Suzuki),18.5,3 yrs,Manual 2WD,Other,2018.0,17.0,1000.0,Petrol,65000.0,No Warranty,Sedan
+i20 sportz 2013 (Hyundai),17.5,personal,Manual -  2WD,Other,2013.0,13.0,1500.0,Petrol,45.0,No Warranty,Sedan
+Bolero Maxitruck (Mahindra),12.0,Groceries wholesale,Manual 2WD,Brown,2017.0,16.0,2523.0,Diesel,100000.0,No Warranty,SUV
+SUZUKI ALTO (Maruti Suzuki),15.75,4 YEARS,Manual 2WD,Other,2018.0,18.0,800.0,Petrol,46333.0,No Warranty,Hatchback
+Enjoy the best rates.Car on sale! (Other Brands),3.5,2years,Auto 2WD,Black,2004.0,10.0,1600.0,Petrol,90819.0,No Warranty,Sedan
+Hyundai I20 Active S 2018 (Full Option) (Hyundai),30.75,Personal Use,Manual 2WD,Silver,2018.0,15.0,1197.0,Petrol,32000.0,No Warranty,Sedan
+Hyundai Santro full option car 2007 model for sale (Hyundai),115.0,personal,Manual 2WD,Silver,2007.0,15.0,1100.0,Petrol,73000.0,No Warranty,Sedan
+Volkswagen polo 1.6 highline 2014 for sale (Volkswagen),21.5,personal,Manual 2WD,Red,2014.0,15.0,1600.0,Petrol,42000.0,No Warranty,Sedan
+Honda Amaze smt 2015 model car for sale (Honda),185.0,personal,Manual 2WD,Blue,2015.0,15.0,1200.0,Petrol,45000.0,No Warranty,Sedan
+Hyundai accent (Hyundai),7.75,around 2 years,Manual -  2WD,Silver,2003.0,15.0,1500.0,Petrol,102500.0,no,Sedan
+Hyundai Creta E+ 2019 model for sale (Hyundai),40.0,personal,Manual 2WD,White,2019.0,15.0,1600.0,Petrol,20000.0,No Warranty,Sedan
+Toyota Corolla LX 2007 single hand (Toyota),15.75,personal,Manual -  2WD,Blue,2007.0,15.0,1497.0,Petrol,65000.0,No Warranty,Sedan
+Hyundai Tucson 2009 ko bikima akdam milauara dinxu (Hyundai),19.99999,personal,Auto -  4WD,Silver,2009.0,12.0,1990.0,Diesel,70000.0,No Warranty,Sedan
+ALTO 2009 for sale (Maruti Suzuki),8.7,personal,Manual 2WD,Other,2009.0,16.0,800.0,Petrol,57000.0,No Warranty,Hatchback
+Suzuki | Dzire VXi | 2018 | Sedan (Maruti Suzuki),24.5,Private Use,Manual 2WD,Silver,2018.0,12.0,1200.0,Petrol,44000.0,No Warranty,Sedan
+Creta 2017 On sale (Hyundai),37.5,Sometime,Auto 4WD,White,2017.0,50.0,1080.0,Petrol,65000.0,No,Sedan
+Maruti Suzuki Celerio VXi (Maruti Suzuki),15.85,Personal Use,Manual -  2WD,Red,2014.0,15.0,1200.0,Petrol,26000.0,No Warranty,Sedan
+Suzuki swift 2017 ZXI on sale. (Maruti Suzuki),24.0,personal,Manual 2WD,Other,2017.0,16.0,1197.0,Petrol,26000.0,no,Sedan
+i20 Active S 2018 (Hyundai),30.75,personal,Manual -  2WD,Other,2018.0,14.0,1200.0,Petrol,37000.0,No Warranty,Sedan
+Nissan Terrano 2018 Brand New (Nissan),37.5,personal,Manual -  2WD,Silver,2018.0,15.0,1080.0,Petrol,5000.0,No Warranty,Sedan
+Hyundai getz 2008model (Hyundai),9.5,personal,Manual -  2WD,Blue,2008.0,15.0,1400.0,Petrol,81000.0,No Warranty,Sedan
+Swift Dzire Vxi (Maruti Suzuki),16.0,personal,Manual 2WD,Silver,2011.0,18.0,1200.0,Petrol,50000.0,No Warranty,Sedan
+i 10 sports 2010 sale 9813994422 fulopson.1.2fresh (Hyundai),14.35,onhand,Manual -  2WD,Other,2010.0,18.0,1200.0,Petrol,55700.0,yes,Sedan
+Breeza zdi 2016 sell or exchange with pickups (Maruti Suzuki),30.5,Personal use,Manual 2WD,White,2016.0,50.0,1250.0,Diesel,55000.0,no,Sedan
+santro (Hyundai),8.5,personal,Manual -  2WD,Blue,2004.0,15.0,1200.0,Petrol,55.0,No Warranty,Sedan
+Kia Soul EV 2017 on sale (Kia),39.9,4 years,Auto 2WD,White,2017.0,9.0,0.0,Electric,42000.0,No Warranty,Hatchback
+santro (Hyundai),9.5,personal,Manual -  2WD,Red,2005.0,15.0,1200.0,Petrol,45.0,No Warranty,Sedan
+Grand I10 Nios Magna 2021 Model On Sale (Hyundai),29.5,personal,Manual -  2WD,Silver,2021.0,17.0,1197.0,Petrol,19000.0,No Warranty,Sedan
+Sell (Hyundai),26.5,Office,Manual 2WD,Silver,2016.0,15.0,1080.0,Petrol,38000.0,No,Sedan
+2008 Model loadking super nissan on sale (Mahindra),6.0,personal,Manual -  2WD,Blue,2008.0,16.0,2600.0,Diesel,233556.0,No Warranty,SUV
+Excellent 2012 cheverolet uva 1.2 with airbags abs (Chevrolet),10.25,9 years,Manual 2WD,Silver,2012.0,14.0,1200.0,Petrol,43000.0,No Warranty,Sedan
+tata super ace good condition n looks good (Tata),8.0,normal trip n lit trip,Auto -  2WD,White,2012.0,15.0,1399.0,Diesel,70000.0,no warranty,Sedan
+Hyundai Creta (Hyundai),56.0,personal,Manual -  2WD,White,2021.0,15.0,1500.0,Petrol,19000.0,No Warranty,Sedan
+Like brand new car on sale (Nissan),42.6,1 month,Manual 2WD,Silver,2023.0,20.0,1000.0,Petrol,3000.0,No,Sedan
+FORD FIGO TITANIUM 2013 WELL IN CONDITION FUE RUN (Ford),12.75,personal,Manual -  2WD,Red,2013.0,15.0,1196.0,Petrol,21000.0,No Warranty,Sedan
+Maruti suzuki Alto Car 800 LXI 2014 model on sell. (Maruti Suzuki),10.0,Self purposes,Manual 2WD,Silver,2014.0,23.0,796.0,Petrol,149000.0,No Warranty,Hatchback
+Sumo 2018 (Tata),16.0,private,Manual -  2WD,Unknown,2018.0,16.0,3000.0,Diesel,50700.0,No Warranty,SUV
+KIA Sportage AWD in mint condition for urgent sale (Kia),30.5,personal,Manual 4WD,White,2011.0,14.0,1998.0,Petrol,58010.0,No Warranty,Sedan
+i10 ERA-Urgent Sell (Hyundai),12.5,13 years,Manual -  2WD,Other,2009.0,12.0,1098.0,Petrol,65000.0,No,Sedan
+Hyundai Tucson 2009 Model On Sell (Hyundai),20.75,personal,Auto -  2WD,Unknown,2009.0,15.0,1200.0,Petrol,181160.0,No Warranty,Sedan
+For sale 2017 model ecosport ambient petrol (Ford),18.5,personal,Manual 2WD,White,2017.0,15.0,1500.0,Petrol,43000.0,No Warranty,Sedan
+Tata Truck -- White & Black color (Tata),19.0,5,Manual,Unknown,2017.0,20.0,1350.0,Diesel,100000.0,No Warranty,Sedan
+Mahindra Bolero Single Cab Pickup 1.5 TPS 2018 (Mahindra),15.75,personal,Manual 2WD,White,2018.0,16.0,2523.0,Diesel,29594.0,No Warranty,SUV
+Datsun Redigo (Datsun),13.5,1.5 year,Manual -  2WD,Silver,2018.0,17.0,1000.0,Petrol,42000.0,No Warranty,Sedan
+Suzuki | Baleno Delta | 2017 | Hatchback (Hyundai),20.25,Private Use,Manual 2WD,Other,2017.0,12.0,1200.0,Petrol,55000.0,No Warranty,Sedan
+Suzuki | Wagon R VXi | 2021 | Hatchback (Maruti Suzuki),23.5,Private Use,Manual 2WD,Other,2021.0,14.0,1200.0,Petrol,13000.0,No Warranty,Sedan
+HYUNDAI CRETA SX+ 2016 FULLY LOADED VEHICLE (Hyundai),33.75,personal,Manual -  2WD,White,2016.0,15.0,1591.0,Petrol,42097.0,No Warranty,Sedan
+Scorpio Pickup s10 2019 with Finance (Mahindra),35.0,personal,Auto -  4WD,Silver,2019.0,20.0,1350.0,Diesel,50000.0,No Warranty,Sedan
+Made in Japan and Malaysia assembled car on sale (Perodua),8.75,13,Manual 2WD,White,2008.0,18.0,1000.0,Petrol,70000.0,No Warranty,Sedan
+Celerio VXI 2017 (Maruti Suzuki),19.5,5,Manual,Other,2017.0,18.0,998.0,Petrol,41461.0,Na,Hatchback
+Kia van (Kia),10.0,delivery,Auto -  2WD,Black,2001.0,8.0,2000.0,Diesel,80000.0,non,Sedan
+Kia van (Kia),4.0,10,Auto -  2WD,Black,2001.0,8.0,2000.0,Diesel,80000.0,No Warranty,Sedan
+Suzuki Dzire Zxi + (Maruti Suzuki),27.0,Hospital - Home purpose,Manual 2WD,Silver,2017.0,50.0,1200.0,Petrol,51000.0,No Warranty,Sedan
+Suzuki | Swift ZXi | 2018 | Hatchback (Maruti Suzuki),26.0,Private Use,Manual 2WD,Other,2018.0,12.0,1200.0,Petrol,35000.0,No Warranty,Sedan
+Nissan Navara SL 2019 model with Canopy (Nissan),60.0,personal,Manual -  4WD,White,2019.0,16.0,2500.0,Diesel,57026.0,No Warranty,Sedan
+Baleno Delta 2017 (Maruti Suzuki),22.5,family,Manual -  2WD,Unknown,2017.0,15.0,1200.0,Petrol,32000.0,No Warranty,Sedan
+Maruti Suzuki zxi (Maruti Suzuki),19.9,personal,Auto -  2WD,Other,2013.0,15.0,1197.0,Petrol,71500.0,No Warranty,Sedan
+Kia Sonet HTE (Kia),37.9,personal,Manual -  4WD,White,2023.0,15.0,1200.0,Petrol,9999.0,No Warranty,Sedan
+Maruti Suzuki Swift Dzire Vxi - silky silver (Maruti Suzuki),27.0,Tourist,Manual 2WD,Silver,2019.0,15.0,1197.0,Petrol,27000.0,No Warranty,Sedan
+Santro xing 2007 (Hyundai),10.75,personal,Auto 2WD,Black,2007.0,14.0,1086.0,Petrol,57000.0,No Warranty,Sedan
+TATA Super Ace (Tata),5.5,Flex Printing company,Manual 2WD,White,2013.0,20.0,1400.0,Diesel,101893.0,No,Sedan
+single hand honda city (Honda),13.0,14years,Manual 2WD,Other,2008.0,10.0,1599.0,Petrol,1350000.0,No Warranty,Sedan
+Renault Kwid Automatic 2017 model (Renault),15.5,personal,Auto -  2WD,Silver,2017.0,50.0,999.0,Petrol,15000.0,No Warranty,Hatchback
+i20 good condition for sell (Hyundai),16.4,personal,Auto 2WD,Other,2010.0,14.0,1200.0,Petrol,65000.0,No Warranty,Sedan
+Jeep Compass Limited + 2020 (Jeep),89.0,personal,Manual 4WD,White,2020.0,20.0,1956.0,Diesel,35000.0,No Warranty,Sedan
+Renault kwid 1.0 rxt for sale (Renault),14.99999,6 years,Manual -  2WD,Other,2017.0,15.0,1000.0,Petrol,32000.0,no,Sedan
+bhansar ko que ko gadi urgent sale (Mahindra),14.5,personal,Manual 2WD,Red,2012.0,14.0,900.0,Diesel,81000.0,No Warranty,Hatchback
+Mahendra Scorpio S5 (2.2) (Mahindra),42.0,personal,Manual 4WD,Silver,2018.0,12.0,2179.0,Diesel,58000.0,no,Sedan
+Proton Wira Good condition car 2005 model Malaysia (Other Brands),6.25,personal,Manual -  4WD,Black,2005.0,15.0,1468.0,Petrol,6278.0,No Warranty,Sedan
+"Ford India, Eco Sport (Ford)",22.0,personal,Manual 2WD,Other,2013.0,20.0,1498.0,Diesel,0.0,No Warranty,Sedan
+Scorpio (Mahindra),22.0,Personal,Manual 2WD,White,2012.0,16.0,2179.0,Diesel,180000.0,No,Sedan
+New Nissan Magnite XE 2022 (BRAND NEW DEAL) (Nissan),27.5,personal,Manual 2WD,Red,2022.0,18.0,999.0,Petrol,10000.0,No Warranty,Hatchback
+Tata Ace Hatti Gadi (Tata) (Tata) (Tata),10.99999,Company,Auto 2WD,Blue,2021.0,23.0,1200.0,Diesel,8000.0,no,Sedan
+Toyata (Toyota),23.0,personal,Auto -  4WD,Unknown,2020.0,25.0,1260.0,Hybrid,43323.0,No Warranty,Sedan
+maruti 2010 taxi (Maruti Suzuki),15.0,personal,Auto -  2WD,White,2010.0,18.0,800.0,Petrol,212645.0,No Warranty,Hatchback
+Toyota car (Toyota),1.5,Home,Manual 2WD,White,1993.0,16.0,1900.0,Diesel,100000.0,No,Sedan
+Tata manza car sale and exchange (Toyota),8.5,Home 🏡,Manual 2WD,White,2012.0,16.0,15.0,Diesel,60000.0,No,Hatchback
+Urgent sell maruti 800 (Maruti Suzuki),2.4,personal,Manual 2WD,Unknown,1999.0,15.0,1200.0,Petrol,268176.0,No Warranty,Sedan
+Eon era plus 2016 (Hyundai),14.0,personal,Manual -  2WD,Other,2016.0,19.0,800.0,Petrol,42000.0,No Warranty,Hatchback
+Brezza 1.5 petrol zxi+ 2021 (Maruti Suzuki),40.75,personal,Manual -  2WD,Silver,2021.0,16.0,1500.0,Petrol,12000.0,No Warranty,Sedan
+Cargo Van On sale (Tata),6.5,Delivery,Auto -  2WD,Gray,2017.0,20.0,800.0,Diesel,70000.0,No Warranty,Hatchback
+Hyundai i10 asta grand 2018 push button start (Hyundai),25.75,personal,Manual 2WD,Silver,2018.0,15.0,1200.0,Petrol,32000.0,No Warranty,Sedan
+Hyundai i10 grand magna 2014 48000 km (Hyundai),18.5,personal,Manual 2WD,Gray,2014.0,15.0,1200.0,Petrol,48000.0,No Warranty,Sedan
+Single handed Cargo van on sale (Maruti Suzuki),7.4,personal,Auto 2WD,White,2018.0,18.0,800.0,Petrol,17000.0,No Warranty,Hatchback
+Hyundai Ix35 Crdi (Hyundai),37.25,personal,Manual -  4WD,Silver,2011.0,12.0,2000.0,Diesel,36091.0,No Warranty,Sedan
+Naza Forza 2008 Model (Other Brands),6.0,Home and office,Manual 2WD,Silver,2008.0,12.0,4.0,Petrol,194164.0,No Warranty,Hatchback
+2022 Mahindra Scorpio S5 4WD for sale or exchange (Mahindra),53.0,personal,Manual 4WD,White,2022.0,15.0,1080.0,Petrol,7500.0,No Warranty,Sedan
+Hiace for sale 2015 model (Toyota),39.0,Commercial purposes,Manual 2WD,White,2015.0,12.0,2800.0,Diesel,121155.0,No Warranty,SUV
+Mahendra bolero pickup truck (Mahindra),14.5,personal,Manual -  4WD,Gray,2017.0,16.0,2500.0,Diesel,42000.0,No Warranty,Sedan
+Bolero maxitruck (Mahindra),16.75,personal,Auto -  4WD,White,2019.0,16.0,2500.0,Diesel,56000.0,No Warranty,Sedan
+2010 Model I10 Magna 1.2 New Shape On Sale (Hyundai),14.65,12 Years,Manual -  2WD,Silver,2010.0,20.0,1200.0,Petrol,60000.0,A,Sedan
+Honda City 2004 (Honda),7.99999,personal,Manual -  2WD,Other,2004.0,15.0,1498.0,Petrol,108000.0,No Warranty,Sedan
+Hyundai grand i10 (Hyundai),24.5,2 years,Manual -  2WD,Silver,2020.0,50.0,1200.0,Petrol,26500.0,No Warranty,Sedan
+Well maintained car. Everything is fine. Single ha (Hyundai),19.25,6 years,Manual 2WD,Blue,2015.0,15.0,1200.0,Petrol,60000.0,No,Sedan
+VW Polo 2014 Highline 1200 (Renault),19.5,7,Manual 2WD,Other,2014.0,50.0,1200.0,Petrol,60000.0,No Warranty,Sedan
+Hyundai i10 magna 2014 (Hyundai),17.5,personal,Manual -  2WD,Silver,2014.0,15.0,1200.0,Petrol,93000.0,No Warranty,Sedan
+nissan xtrail 2007 model for sale or exchange (Nissan),24.5,private use,Auto -  4WD,Other,2007.0,13.0,2200.0,Diesel,60000.0,no warenty,Sedan
